@@ -1,0 +1,15 @@
+
+	<type name="Animal_DBO_Tiger">
+		<cargo chance="0.00">
+			<item name="Paper" chance="0.50" />
+			<item name="Rag" chance="0.50" />
+		</cargo>
+	</type>
+	<type name="Animal_DBO_Tiger_s">
+		<cargo chance="0.00">
+			<item name="Paper" chance="0.50" />
+			<item name="Rag" chance="0.50" />
+		</cargo>
+	</type>
+	
+	

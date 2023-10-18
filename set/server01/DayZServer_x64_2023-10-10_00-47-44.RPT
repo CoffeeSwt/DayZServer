@@ -1,0 +1,509 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ-Namalsk.cfg -port=2303 -profiles=D:\SteamLibrary\steamapps\common\DayZServer\set\server01 -mod=@CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings;
+=====================================================================
+Exe timestamp: 2023/09/30 07:51:18
+Current time:  2023/10/10 00:47:50
+Version 1.22.156718
+=====================================================================
+
+ 0:47:50.212 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:47:50.216 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:47:50.218 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+ 0:47:50.218 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+ 0:47:50.218 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+ 0:47:50.218 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 0:47:50.218 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 0:47:50.219 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 0:47:50.220 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 0:47:50.220 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 0:47:50.220 [Inputs] Loading inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+ 0:47:50.226 [Inputs] Exporting inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+ 0:48:03.973 [CE][Hive] :: Initializing OFFLINE
+ 0:48:03.974 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\
+ 0:48:03.974 [CE][Hive] :: Loading core data ... 
+ 0:48:03.974 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+ 0:48:10.319 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+ 0:48:10.322 [CE][TypeSetup] :: 586 classes setuped...
+ 0:48:12.175 [CE][RegisterBind] :: 0 classes binded...
+ 0:48:12.175 [CE][RegisterConfig] :: 11927 config classes registered, 0 sub-counters...
+ 0:48:12.175 [CE][Hive] :: Loading map data ... 
+ 0:48:12.250 [CE][LoadPrototype] :: loaded 459 prototypes
+ 0:48:12.251   841 containers, 13222 points
+ 0:48:12.252   30 dispatches, 111 proxies
+ 0:48:12.252 !!! [CE][LoadPrototype] 9 groups have no points...
+ 0:48:12.253 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 0:48:12.254 !!! [CE][LoadPrototype] 126 groups were defined more than once and skipped...
+ 0:48:12.255 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+ 0:48:12.264 [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:48:12.265   38 containers, 66 points
+ 0:48:12.265   0 dispatches, 0 proxies
+ 0:48:12.266 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 0:48:12.307 [CE][LoadMap] "Group" :: loaded 1880 groups, groups failed: 0, largest group range: 36.4
+ 0:48:12.308 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 0:48:12.320 [CE][Links] found 720 total links between groups, of 1880
+ 0:48:12.320 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:48:12.330 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 0:48:12.332 [CE][Storage] ver:21 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin"
+ 0:48:12.334 [CE][Storage] ver:21 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.001"
+ 0:48:12.335 [CE][Storage] ver:21 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.002"
+ 0:48:12.336 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin".
+ 0:48:12.455 [CE][offlineDB] :: Loaded 21 dynamic events 173 total types.
+ 0:48:12.499 !!! [CE][offlineDB] :: Type 'Mag_DE_9rnd' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.500 !!! [CE][offlineDB] :: Type 'Telnyashka' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.500 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.501 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.502 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.502 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.503 !!! [CE][offlineDB] :: Type 'ManSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.504 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.504 !!! [CE][offlineDB] :: Type 'ManSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'ManSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.505 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.506 !!! [CE][offlineDB] :: Type 'SportGlasses' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.507 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:48:12.508 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Black' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.508 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Blue' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.508 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Grey' will be ignored. (Type does not exist. (Typo?))
+ 0:48:12.509 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 0:48:12.509 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 0:48:12.509 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 0:48:12.510 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 0:48:12.521 [CE][DE][SPAWNS] :: Total positions: 677
+ 0:48:12.523 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 0:48:12.524 [CE][Storage] ver:21 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin"
+ 0:48:12.526 [CE][Storage] ver:21 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.001"
+ 0:48:12.527 [CE][Storage] ver:21 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.002"
+ 0:48:12.527 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin".
+ 0:48:12.528 [CE][DynamicEvent] Load  Events:[21] Primary spawners: 21 Secondary spawners: 0
+ 0:48:12.529 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+ 0:48:12.530 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+ 0:48:12.531 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+ 0:48:12.531 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 9 items.
+ 0:48:12.535   9 items loaded. (0 failed)
+ 0:48:12.537 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+ 0:48:12.539 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+ 0:48:12.539 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+ 0:48:12.540 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 50 items.
+ 0:48:12.606   50 items loaded. (0 failed)
+ 0:48:12.607 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+ 0:48:12.609 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+ 0:48:12.610 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+ 0:48:12.610 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 159 items.
+ 0:48:12.613 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.625 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.662 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.676 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:12.687 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:12.699 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:12.713 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:12.724 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:12.729 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.766 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:12.770   159 items loaded. (0 failed)
+ 0:48:12.771 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+ 0:48:12.773 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+ 0:48:12.774 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+ 0:48:12.775 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 1011 items.
+ 0:48:12.899 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.907 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:12.971 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:13.36 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:13.42 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Red"
+ 0:48:13.89 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:13.109 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:13.127 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:13.170 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:13.185 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:13.213 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:13.220 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:13.309 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:13.316 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Red"
+ 0:48:13.332 !!! Scripted variables corrupted upon "DisinfectantAlcohol"
+ 0:48:13.400 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:13.412 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:13.471 !!! Scripted variables corrupted upon "MSP_WitchCauldron"
+ 0:48:13.516   1011 items loaded. (0 failed)
+ 0:48:13.517 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+ 0:48:13.521 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+ 0:48:13.523 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+ 0:48:13.524 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 2258 items.
+ 0:48:13.562 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:13.579 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:13.591 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:13.616 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:13.637 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:13.639 !!! Scripted variables corrupted upon "dzn_Marmalade"
+ 0:48:13.658 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Black"
+ 0:48:13.677 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:13.722 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:13.744 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:13.745 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:13.895 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:13.913 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:13.922 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Red"
+ 0:48:13.946 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:13.967 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:13.984 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:14.16 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:14.64 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:14.91 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:14.129 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.136 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:14.138 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.158 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:14.179 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.181 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:14.195 !!! Scripted variables corrupted upon "dzn_SardinesCan"
+ 0:48:14.219 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:14.274 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.363 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:14.372 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:14.385 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:14.407 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:14.410 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:14.414 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.442 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:14.444 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:14.475 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:14.551 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:14.556 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:14.644 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:14.676 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:14.693 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:14.699 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:14.726 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_White"
+ 0:48:14.747 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:14.753 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:14.765 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.820 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:14.849 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:14.849   2258 items loaded. (0 failed)
+ 0:48:14.850 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+ 0:48:14.850 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+ 0:48:14.851 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+ 0:48:14.853 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 1005 items.
+ 0:48:14.904 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:14.970 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:14.987 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:15.13 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:15.18 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:15.24 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:15.39 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.93 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:15.107 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:15.134 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:15.168 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:15.171 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.193 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:15.201 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:15.207 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:15.215 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:15.234 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:15.248 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:15.318 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:15.329 !!! Scripted variables corrupted upon "MSP_WitchCauldron"
+ 0:48:15.355   1005 items loaded. (0 failed)
+ 0:48:15.358 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+ 0:48:15.358 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+ 0:48:15.359 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+ 0:48:15.359 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 2294 items.
+ 0:48:15.369 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:15.382 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:15.397 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:15.405 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:15.425 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:15.436 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:15.444 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:15.466 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:15.485 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:15.486 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:15.494 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.508 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:15.533 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:15.542 !!! Scripted variables corrupted upon "Rice"
+ 0:48:15.551 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:15.551 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:15.565 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:15.638 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:15.670 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:15.703 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:15.725 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:15.752 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.754 !!! Scripted variables corrupted upon "dzn_Canteen"
+ 0:48:15.758 !!! Scripted variables corrupted upon "dzn_Marmalade"
+ 0:48:15.784 !!! Scripted variables corrupted upon "dzn_Marmalade"
+ 0:48:15.795 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.802 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:15.819 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:15.823 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:15.824 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:15.828 !!! Scripted variables corrupted upon "CharcoalTablets"
+ 0:48:15.835 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:15.849 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:15.853 !!! Scripted variables corrupted upon "Rice"
+ 0:48:15.853 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.885 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:15.889 !!! Scripted variables corrupted upon "dzn_Marmalade"
+ 0:48:15.908 !!! Scripted variables corrupted upon "dzn_Marmalade"
+ 0:48:15.920 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:15.920 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:15.949 !!! Scripted variables corrupted upon "Rice"
+ 0:48:15.952 !!! Scripted variables corrupted upon "Rice"
+ 0:48:15.954 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:15.955 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:15.959 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:15.961 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:15.984 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:15.991 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:15.994 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.27 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.38 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:16.52 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.91 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:16.92 !!! Scripted variables corrupted upon "Rice"
+ 0:48:16.95 !!! Scripted variables corrupted upon "Rice"
+ 0:48:16.110 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:16.125 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.134 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.139 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.161 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:16.163 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:16.200 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:16.209 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.219 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:16.221 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.227 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.231 !!! Scripted variables corrupted upon "dzn_BakedBeansCan"
+ 0:48:16.233 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.240 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.245 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.266 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:16.270 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:16.280 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.281 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.322 !!! Scripted variables corrupted upon "PainkillerTablets"
+ 0:48:16.329 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic"
+ 0:48:16.355 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.357 !!! Scripted variables corrupted upon "Rice"
+ 0:48:16.360 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.363 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:16.372 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:16.376 !!! Scripted variables corrupted upon "BoxCerealCrunchin"
+ 0:48:16.377 !!! Scripted variables corrupted upon "Rice"
+ 0:48:16.382 !!! Scripted variables corrupted upon "Rice"
+ 0:48:16.409 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:16.431 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:16.443   2294 items loaded. (0 failed)
+ 0:48:16.445 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+ 0:48:16.446 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+ 0:48:16.448 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+ 0:48:16.448 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 779 items.
+ 0:48:16.491 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:16.498 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.514 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.518 !!! Scripted variables corrupted upon "PowderedMilk"
+ 0:48:16.545 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Yellow"
+ 0:48:16.554 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:16.560 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:16.592 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.593 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.604 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.608 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.629 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:16.638 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:16.649 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:16.665 !!! Scripted variables corrupted upon "dzn_Pot"
+ 0:48:16.673 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.682 !!! Scripted variables corrupted upon "VitaminBottle"
+ 0:48:16.703 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:16.710 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:16.712 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:16.715 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.722 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:16.767 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:16.780 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:16.783 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.798 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:16.809 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:16.844 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.851 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:16.865   779 items loaded. (0 failed)
+ 0:48:16.868 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+ 0:48:16.869 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+ 0:48:16.870 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+ 0:48:16.870 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 300 items.
+ 0:48:16.900 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.907 !!! Scripted variables corrupted upon "dzn_SodaCan_Spite"
+ 0:48:16.914 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Green"
+ 0:48:16.924 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Black"
+ 0:48:16.928 !!! Scripted variables corrupted upon "MSP_WitchCauldron"
+ 0:48:16.935 !!! Scripted variables corrupted upon "dzn_SodaCan_Pipsi"
+ 0:48:16.938 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:16.939 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_White"
+ 0:48:16.954 !!! Scripted variables corrupted upon "MSP_WitchCauldron"
+ 0:48:16.963 !!! Scripted variables corrupted upon "dzn_TunaCan"
+ 0:48:16.991 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:17.21 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic"
+ 0:48:17.30 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:17.34   300 items loaded. (0 failed)
+ 0:48:17.34 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+ 0:48:17.35 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+ 0:48:17.36 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+ 0:48:17.36 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+ 0:48:17.36   0 items loaded. (0 failed)
+ 0:48:17.38 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+ 0:48:17.39 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+ 0:48:17.40 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+ 0:48:17.40 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 277 items.
+ 0:48:17.42 !!! Scripted variables corrupted upon "CanisterGasoline"
+ 0:48:17.52 !!! Scripted variables corrupted upon "MSP_WitchCauldron"
+ 0:48:17.57 !!! Scripted variables corrupted upon "DisinfectantSpray"
+ 0:48:17.61 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Green"
+ 0:48:17.71 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Yellow"
+ 0:48:17.72 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Green"
+ 0:48:17.77 !!! Scripted variables corrupted upon "PurificationTablets"
+ 0:48:17.84 !!! Scripted variables corrupted upon "dzn_WaterBottle"
+ 0:48:17.100 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_White"
+ 0:48:17.129 !!! Scripted variables corrupted upon "dzn_SpaghettiCan"
+ 0:48:17.129 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Yellow"
+ 0:48:17.135 !!! Scripted variables corrupted upon "dzn_SodaCan_Kvass"
+ 0:48:17.138 !!! Scripted variables corrupted upon "TetracyclineAntibiotics"
+ 0:48:17.160 !!! Scripted variables corrupted upon "dzn_SodaCan_Cola"
+ 0:48:17.164 !!! Scripted variables corrupted upon "dzn_PeachesCan"
+ 0:48:17.176 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic"
+ 0:48:17.178 !!! Scripted variables corrupted upon "Msp_WaterBarrel_Plastic_Black"
+ 0:48:17.188   277 items loaded. (0 failed)
+ 0:48:17.191 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+ 0:48:17.192 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+ 0:48:17.193 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+ 0:48:17.194 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 23 items.
+ 0:48:17.206   23 items loaded. (0 failed)
+ 0:48:17.207 [CE][Storage] ver:26 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin"
+ 0:48:17.208 [CE][Storage] ver:26 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.001"
+ 0:48:17.209 [CE][Storage] ver:26 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.002"
+ 0:48:17.209 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+ 0:48:17.209   0 items loaded. (0 failed)
+ 0:48:17.210 [CE][Storage] ver:25 stamp:306, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+ 0:48:17.211 [CE][Storage] ver:25 stamp:283, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+ 0:48:17.212 [CE][Storage] ver:25 stamp:284, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+ 0:48:17.212 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 37 items.
+ 0:48:17.321   37 items loaded. (0 failed)
+ 0:48:17.345 [CE][Hive] :: Storage load took:4.81 seconds, recovery stamp:306
+ 0:48:17.346   entity: 8962, building: 0
+ 0:48:17.346   no lifetime: 17
+ 0:48:17.346   pathgraph's: 315
+ 0:48:17.347 [CE][Hive] :: Initializing ... 
+ 0:48:17.368 [CE][InitializeMap] :: initialized: 0
+ 0:48:17.368 [CE][Hive] :: Initializing spawners ... 
+ 0:48:17.369 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:12407, Total in Map: 9326 at 0 (sec)
+ 0:48:17.370   tests:0, repeats:0 fails:0, overtime:0
+ 0:48:18.750 [CE][DynEvent] :: 21 types
+ 0:48:18.752 [00] Loot
+ 0:48:18.753   Primary Spawner: "Loot", active: yes, repeat: 2
+ 0:48:18.754 [01] StaticMedDrop
+ 0:48:18.754   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:48:18.754 [02] StaticLifeboat
+ 0:48:18.754   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:48:18.755 [03] ItemWoodenPlanks
+ 0:48:18.755   Primary Spawner: "Item", active: yes, repeat: 1
+ 0:48:18.755 [04] TrajectoryStones
+ 0:48:18.755   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:48:18.755 [05] InfectedSanta
+ 0:48:18.755   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:48:18.755 [06] InfectedArmy
+ 0:48:18.755   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:48:18.755 [07] InfectedIndustrial
+ 0:48:18.757   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:48:18.757 [08] InfectedCivil
+ 0:48:18.757   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:48:18.757 [09] InfectedMedic
+ 0:48:18.757   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:48:18.757 [10] AnimalGoat
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [11] AnimalSheep
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [12] AnimalRoeDeer
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [13] AnimalDeer
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [14] AnimalWildBoar
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [15] AnimalWolf
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [16] AnimalBrownBear
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [17] AnimalPolarBear
+ 0:48:18.757   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:48:18.757 [18] VehicleCivilianCars
+ 0:48:18.757   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:48:18.757 [19] VehicleTrucks
+ 0:48:18.757   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:48:18.757 [20] VehicleMilitary
+ 0:48:18.757   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:48:18.757 [CE][Hive] :: Initializing of spawners done.
+ 0:48:18.762 [CE][Hive] :: Init sequence finished.
+ 0:48:18.762 Player connect enabled
+ 0:48:19.217 [IdleMode] Entering IN - save processed
+ 0:49:58.887 [Login]: Adding player Coffee (40457819) to login queue at position 0
+ 0:49:58.887 [LoginMachine]: Add player Coffee (40457819 192.168.1.3:2317)
+ 0:49:58.887 [StateMachine]: Player Coffee (dpnid 40457819 uid ) Entering AuthPlayerLoginState
+ 0:49:58.916 [IdleMode] Leaving OUT
+ 0:50:00.395 [StateMachine]: Player Coffee (dpnid 40457819 uid ) State Error (AuthPlayerLoginState)
+ 0:50:00.395 Player Unknown (40457819) kicked from server: 116 (Client has a mod which is not on the server. (Ear Plugs)  (Client has a PBO which is not part of the server. (D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Ear-Plugs\addons\earplugs.pbo)))
+ 0:50:00.395 [StateMachine]: Kick player Coffee (dpnid 40457819 uid ) State AuthPlayerLoginState
+ 0:50:00.415 [Disconnect]: Client 40457819 early disconnect
+ 0:50:00.415 [Disconnect]: No identity -> remove player info 40457819 
+ 0:50:00.416 [Disconnect]: DisconnectPlayerFinish 40457819
+ 0:50:00.416 [Disconnect]: Remove player info 40457819
+ 0:50:00.416 [Disconnect]: Player destroy 40457819 
+ 0:50:20.934 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "bl_pallet"
+ 0:50:21.37 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "bl_paint_tube"
+ 0:50:21.38 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "bl_paint_tube"
+ 0:50:21.135 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "bl_coffee_bag"
+ 0:50:21.136 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "bl_coffee_bag"
+ 0:50:21.235 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.236 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.236 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.237 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.237 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.238 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.238 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "bl_repair_anvil"
+ 0:50:21.238 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "bl_repair_anvil"
+ 0:50:21.335 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "Msp_Greenhouse_Vanilla_Kit"
+ 0:50:21.435 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Msp_Greenhouse_White_Kit"
+ 0:50:21.534 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "HuntingBag"
+ 0:50:21.634 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Msp_CoffinBox"
+ 0:50:21.735 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "BallisticHelmet_UN"
+ 0:50:21.835 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "bl_firewoodstorage_Kit"
+ 0:50:21.934 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "bl_workbench_Kit"
+ 0:50:22.34 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "bl_logstorage_Kit"
+ 0:50:22.34 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "bl_logstorage_Kit"
+ 0:50:22.135 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "PlateCarrierPouches"
+ 0:50:22.234 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "bl_extension_cable_reel"
+ 0:50:22.234 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "bl_extension_cable_reel"
+ 0:50:22.435 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "GhillieHood_Woodland"
+ 0:50:22.537 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "CanvasPants_Blue"
+ 0:50:22.836 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "bl_coffee_machine_Kit"
+ 0:50:22.836 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "bl_coffee_machine_Kit"
+ 0:50:47.954 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "PressVest_Blue"
+ 0:50:47.956 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "PressVest_Blue"
+ 0:50:48.757 !!! [CE][Point] Removing 5050.700684, 5346.977051 from land_wrecked_ural_onside
+ 0:50:48.855 !!! [CE][Point] Removing 5050.001953, 5344.979492 from land_wrecked_ural_onside
+ 0:50:49.55 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "MilitaryBoots_Redpunk"
+ 0:50:49.155 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "GorkaEJacket_Flat"
+ 0:50:49.254 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "RDG2SmokeGrenade_White"
+ 0:51:16.298  --- Termination successfully completed --- 

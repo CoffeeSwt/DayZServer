@@ -1,0 +1,797 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\set\server01\script_2023-10-15_22-06-14.log started at 15.10. 22:06:15
+
+SCRIPT       : Registered 400 temporary action enum(s), UAN==400
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT       : 22:06:17 [EXPANSION LOG]: DayZGame<9ee490e0> Start time (local time) 2023-10-15 22:06:08
+SCRIPT       : 22:06:17 [EXPANSION LOG]: DayZGame<9ee490e0> Start time (UTC) 2023-10-15 14:06:08
+SCRIPT       : 22:06:17 [EXPANSION LOG]: DayZGame<9ee490e0> Runtime since start (seconds) 9.115
+SCRIPT    (W): @"MuchStuffPack/InventoryFixSolo/scripts/4_World/player_base.c,25": Missing ';' at the end of line
+SCRIPT    (W): @"relife_UncoSound/scripts/4_World/playerbase.c,37": Missing ';' at the end of line
+SCRIPT    (W): @"relife_UncoSound/scripts/4_World/playerbase.c,35": FIX-ME: Overriding function 'OnUnconsciousStart' but not marked as 'override'
+SCRIPT    (W): @"relife_UncoSound/scripts/4_World/playerbase.c,46": FIX-ME: Overriding function 'OnUnconsciousStop' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,321": FIX-ME: Overriding function 'IsRaidable' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,326": FIX-ME: Overriding function 'IsFancyBBPItem' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,399": FIX-ME: Overriding function 'CreateConstructionKit' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,404": FIX-ME: Overriding function 'GetKitSpawnPosition' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,416": FIX-ME: Overriding function 'GetConstructionKitType' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,827": FIX-ME: Overriding function 'OnSetSlotLock' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_barb_fence\bbp_barb.c,28": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_barb_fence\bbp_barb.c,78": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_fence\bbp_barb.c,28": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_fence\bbp_barb.c,78": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\bstair\bbp_bstair.c,15": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_floor_mesh\bbp_mesh.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,16": FIX-ME: Overriding function 'ToggleBookReading' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,20": FIX-ME: Overriding function 'IsReadingBook' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_ramp\bramp\bbp_bramp.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\sstair\bbp_sstair.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_gate\bbp_mesh_gate.c,63": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_gate\bbp_mesh_gate.c,113": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_bfloor\bbp_bfloor.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\mstair\bbp_bstair.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_pillar\bpillar\bbp_bpillar.c,9": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_sfloor\bbp_sfloor.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/overrides\construction.c,189": FIX-ME: Overriding function 'SpawnConstructionMaterialPiles' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor_hatch\bbp_floor_hatch.c,49": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_half_wall\bbp_half_swall\bbp_swall.c,14": FIX-ME: Overriding function 'isSmall' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/overrides\construction.c,72": FIX-ME: Overriding function 'DropNonUsableMaterialsServer' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_slope_roof\bbp_slope_roof.c,14": FIX-ME: Overriding function 'isflat' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_pillar\spillar\bbp_spillar.c,9": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\admintool\admin.c,16": FIX-ME: Overriding function 'isBBPAdminTool' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"EarPlugs/scripts/5_Mission/earplugs\ingamehud.c,6": FIX-ME: Overriding function 'IsHudVisible' but not marked as 'override'
+SCRIPT    (W): @"Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c,4": FIX-ME: Overriding function 'SpawnObject' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : [BL_Crafting_Config] --- Loading Config.
+SCRIPT       : Expansion version: 1.8.26
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 22:06:31.781 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : BF_Define
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : BBP_keybind
+SCRIPT       : bl_shared_data
+SCRIPT       : bl_stove
+SCRIPT       : DZ_DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : bliss
+SCRIPT       : EarPlugs
+SCRIPT       : Inventory_Zipper
+SCRIPT       : DZ_InventoryMoveSounds
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : PvZmoD_CustomisableZombies
+SCRIPT       : BoostZombiesVisionAddon
+SCRIPT       : InventoryFixSolo
+SCRIPT       : MSP_Clothing_Data
+SCRIPT       : MSP_Retextures_Data
+SCRIPT       : MSP_Signs_Data
+SCRIPT       : sFramework
+SCRIPT       : sGunplay
+SCRIPT       : NAMALSK_ISLAND
+SCRIPT       : NAMALSK_SURVIVAL
+SCRIPT       : Overhaulfiles
+SCRIPT       : bl_pallet
+SCRIPT       : relife_UncoSound
+SCRIPT       : SnowOverhaul_scripts
+SCRIPT       : AVPPAdminTools
+SCRIPT       : ZenImmersiveLogin
+SCRIPT       : bl_carpet
+SCRIPT       : bl_deposit
+SCRIPT       : bl_fridge
+SCRIPT       : bl_lamps
+SCRIPT       : bl_paintings
+SCRIPT       : bl_pallet_bed
+SCRIPT       : bl_pallet_box
+SCRIPT       : bl_pallet_cabinet
+SCRIPT       : bl_pallet_table
+SCRIPT       : bl_plants
+SCRIPT       : bl_rain_collector
+SCRIPT       : bl_special
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : dbo_dil
+SCRIPT       : dbo_tiger
+SCRIPT       : MuchStuffPack
+SCRIPT       : MSP_Seasonal_Summer
+SCRIPT       : MSP_Sports_Data
+SCRIPT       : MSP_Storage_fridges
+SCRIPT       : MSP_Storage_Tents
+SCRIPT       : MSP_Storage_boxes
+SCRIPT       : MSP_Storage_chests
+SCRIPT       : MSP_Storage_crates
+SCRIPT       : MSP_Storage_lockers
+SCRIPT       : MSP_Storage_otherstorage
+SCRIPT       : MSP_Storage_racks
+SCRIPT       : MSP_Storage_waterbarrels
+SCRIPT       : MSP_Toys_Data
+SCRIPT       : MSP_Weapons_Data
+SCRIPT       : ZenCraftingSounds
+SCRIPT       : BuildingFortifications
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : MSP_Buildings_Data
+SCRIPT       : MSP_Deco
+SCRIPT       : MSP_Garden_Data
+SCRIPT       : MSP_Halloween
+SCRIPT       : A3_UI_F
+SCRIPT       : BaseBuildingPlus
+SCRIPT       : dbo_raptor
+SCRIPT       : MSP_BaseBuilding
+SCRIPT       : Namalsk_Overhaul_scripts
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : [BL_General_Config] --- OnInit --- 
+SCRIPT       : [BL_Crafting_Config] --- OnInit --- 
+SCRIPT       : [BL_Workbench_Config] --- OnInit --- 
+SCRIPT       : [BL_Item_Config] --- OnInit --- 
+SCRIPT       : [BL_General_Config] --- Loading Config.
+SCRIPT       : [BL_Workbench_Config] --- Loading Config.
+SCRIPT       : [BL_Item_Config] --- Loading Config.
+SCRIPT       : [BL_Object_Spawner] --- Loading Config.
+SCRIPT       : 14:06:32 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+SCRIPT       : 14:06:32 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<5a6dc210>
+SCRIPT       : SnowOverhaul: Ready
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : 22:06:32.000 [EXPANSION DEBUG]: ModStorage v5
+SCRIPT       : [MSP_Server_Config] '$profile:\MuchStuffPack\MSP_Config.json' found, loading existing config!
+SCRIPT       : [Namalsk_Overhaul] Spawning Objects...
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:47
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:55
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:89
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:95
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:104
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:117
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:121
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:130
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:138
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:144
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:155
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:165
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:174
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:178
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:214
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:218
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:222
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:227
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:242
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:244
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:258
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:275
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:289
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:291
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:314
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:326
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:339
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:363
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:376
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:379
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:405
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:418
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:424
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:471
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:477
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:481
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:510
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:540
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:560
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:566
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:582
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:587
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:596
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:604
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:648
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:658
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:660
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:668
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:672
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:686
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:691
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:696
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:699
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:715
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:728
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:745
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:781
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:787
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:794
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:811
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:819
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:830
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:833
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:846
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1031
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1038
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1049
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1052
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1058
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1178
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1184
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1196
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1203
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1224
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1227
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1251
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1254
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1267
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1295
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1466
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1500
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1701
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1705
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1764
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1767
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1777
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT    (E): NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1800
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 870 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'RegularNamalskServer'
+SCRIPT       : Found 0 zones!
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 971 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 618.839
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1127.74 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 924 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1127.74
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

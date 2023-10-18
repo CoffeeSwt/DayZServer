@@ -1,0 +1,1650 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ-Namalsk.cfg -port=2303 -netLog -profiles=D:\SteamLibrary\steamapps\common\DayZServer\set\server01 -mod=@CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings;@Dabs-Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-@DayZ-Expansion-Vehicles;Expansion-Licensed;@dbo_dil;@dbo_raptors;@dbo_tigers_02;
+=====================================================================
+Exe timestamp: 2023/09/30 07:51:18
+Current time:  2023/10/15 21:07:11
+Version 1.22.156718
+=====================================================================
+
+21:07:11.578 [Inputs] Loading inputs default "bin/constants.xml"
+21:07:11.583 [Inputs] Loading inputs default "bin/specific.xml"
+21:07:11.585 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+21:07:11.586 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+21:07:11.587 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+21:07:11.588 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+21:07:11.588 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+21:07:11.589 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+21:07:11.590 !!! [Inputs] Cannot load inputs default "", file does not exist
+21:07:11.591 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+21:07:11.592 [Inputs] Loading inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+21:07:11.594 !!! [Inputs] Cannot Register "UAExpansionHeliRocket" non-existent input - Fix Preset!
+21:07:11.594 !!! [Inputs] Cannot Register "UAExpansionHeliFreeLook" non-existent input - Fix Preset!
+21:07:11.595 !!! [Inputs] Cannot Register "UAExpansionHeliAutoHover" non-existent input - Fix Preset!
+21:07:11.595 !!! [Inputs] Cannot Register "UAExpansionHeliCyclicForward" non-existent input - Fix Preset!
+21:07:11.595 !!! [Inputs] Cannot Register "UAExpansionHeliCyclicBackward" non-existent input - Fix Preset!
+21:07:11.595 !!! [Inputs] Cannot Register "UAExpansionHeliCyclicLeft" non-existent input - Fix Preset!
+21:07:11.596 !!! [Inputs] Cannot Register "UAExpansionHeliCyclicRight" non-existent input - Fix Preset!
+21:07:11.596 !!! [Inputs] Cannot Register "UAExpansionHeliCollectiveUp" non-existent input - Fix Preset!
+21:07:11.597 !!! [Inputs] Cannot Register "UAExpansionHeliCollectiveDown" non-existent input - Fix Preset!
+21:07:11.597 !!! [Inputs] Cannot Register "UAExpansionHeliAntiTorqueLeft" non-existent input - Fix Preset!
+21:07:11.598 !!! [Inputs] Cannot Register "UAExpansionHeliAntiTorqueRight" non-existent input - Fix Preset!
+21:07:11.599 !!! [Inputs] Cannot Register "UAExpansionHeliCargoDoorUp" non-existent input - Fix Preset!
+21:07:11.599 !!! [Inputs] Cannot Register "UAExpansionHeliCargoDoorDown" non-existent input - Fix Preset!
+21:07:11.600 !!! [Inputs] Cannot Register "UAExpansionPlaneFlare" non-existent input - Fix Preset!
+21:07:11.600 !!! [Inputs] Cannot Register "UAExpansionPlaneEngine" non-existent input - Fix Preset!
+21:07:11.601 !!! [Inputs] Cannot Register "UAExpansionPlaneEngineUp" non-existent input - Fix Preset!
+21:07:11.601 !!! [Inputs] Cannot Register "UAExpansionPlaneEngineDown" non-existent input - Fix Preset!
+21:07:11.602 !!! [Inputs] Cannot Register "UAExpansionPlaneBrake" non-existent input - Fix Preset!
+21:07:11.602 !!! [Inputs] Cannot Register "UAExpansionPlaneBrakeUp" non-existent input - Fix Preset!
+21:07:11.603 !!! [Inputs] Cannot Register "UAExpansionPlaneBrakeDown" non-existent input - Fix Preset!
+21:07:11.603 !!! [Inputs] Cannot Register "UAExpansionPlaneElevatorUp" non-existent input - Fix Preset!
+21:07:11.603 !!! [Inputs] Cannot Register "UAExpansionPlaneElevatorDown" non-existent input - Fix Preset!
+21:07:11.603 !!! [Inputs] Cannot Register "UAExpansionPlaneAileronLeft" non-existent input - Fix Preset!
+21:07:11.604 !!! [Inputs] Cannot Register "UAExpansionPlaneAileronRight" non-existent input - Fix Preset!
+21:07:11.604 !!! [Inputs] Cannot Register "UAExpansionPlaneRudderLeft" non-existent input - Fix Preset!
+21:07:11.604 !!! [Inputs] Cannot Register "UAExpansionPlaneRudderRight" non-existent input - Fix Preset!
+21:07:11.605 !!! [Inputs] Cannot Register "UAExpansionPlaneFlapsUp" non-existent input - Fix Preset!
+21:07:11.605 !!! [Inputs] Cannot Register "UAExpansionPlaneFlapsDown" non-existent input - Fix Preset!
+21:07:11.606 !!! [Inputs] Cannot Register "UAExpansionPlaneWheelBrake" non-existent input - Fix Preset!
+21:07:11.606 !!! [Inputs] Cannot Register "UAExpansionBoatMoveForward" non-existent input - Fix Preset!
+21:07:11.607 !!! [Inputs] Cannot Register "UAExpansionBoatMoveBackward" non-existent input - Fix Preset!
+21:07:11.607 !!! [Inputs] Cannot Register "UAExpansionBoatRotateLeft" non-existent input - Fix Preset!
+21:07:11.608 !!! [Inputs] Cannot Register "UAExpansionBoatRotateRight" non-existent input - Fix Preset!
+21:07:11.608 !!! [Inputs] Cannot Register "UAExpansionBoatTurbo" non-existent input - Fix Preset!
+21:07:11.608 !!! [Inputs] Cannot Register "UAExpansionBikeGearUp" non-existent input - Fix Preset!
+21:07:11.609 !!! [Inputs] Cannot Register "UAExpansionBikeGearDown" non-existent input - Fix Preset!
+21:07:11.609 !!! [Inputs] Cannot Register "UAExpansionBikeMoveForward" non-existent input - Fix Preset!
+21:07:11.609 !!! [Inputs] Cannot Register "UAExpansionBikeMoveBackward" non-existent input - Fix Preset!
+21:07:11.610 !!! [Inputs] Cannot Register "UAExpansionBikeRotateLeft" non-existent input - Fix Preset!
+21:07:11.610 !!! [Inputs] Cannot Register "UAExpansionBikeRotateRight" non-existent input - Fix Preset!
+21:07:11.610 !!! [Inputs] Cannot Register "UAExpansionBikeGentle" non-existent input - Fix Preset!
+21:07:11.611 !!! [Inputs] Cannot Register "UAExpansionBikeTurbo" non-existent input - Fix Preset!
+21:07:11.611 !!! [Inputs] Cannot Register "UAExpansionCarHorn" non-existent input - Fix Preset!
+21:07:11.611 !!! [Inputs] Cannot Register "UAExpansionCarRefill" non-existent input - Fix Preset!
+21:07:11.615 [Inputs] Exporting inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+21:07:24.321 !!! File "nst\namalsk\data\ce\env/dil_territories.xml" does not exist...
+21:07:24.321 !!! [ERROR][XML] :: load [nst\namalsk\data\ce\env/dil_territories.xml] failed
+21:07:24.321 !!! [ERROR][XML] :: Failed to open file
+21:07:26.432 [CE][Hive] :: Initializing OFFLINE
+21:07:26.432 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\
+21:07:26.432 [CE][Hive] :: Loading core data ... 
+21:07:26.433 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+21:07:32.142 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+21:07:32.143 [CE][TypeSetup] :: 588 classes setuped...
+21:07:32.148 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+21:07:32.148 [CE][TypeSetup] :: 3 classes setuped...
+21:07:34.08 [CE][RegisterBind] :: 0 classes binded...
+21:07:34.08 [CE][RegisterConfig] :: 12078 config classes registered, 0 sub-counters...
+21:07:34.08 [CE][Hive] :: Loading map data ... 
+21:07:34.86 [CE][LoadPrototype] :: loaded 459 prototypes
+21:07:34.86   841 containers, 13222 points
+21:07:34.86   30 dispatches, 111 proxies
+21:07:34.86 !!! [CE][LoadPrototype] 9 groups have no points...
+21:07:34.86 !!! [CE][LoadPrototype] 1 groups have wrong points...
+21:07:34.86 !!! [CE][LoadPrototype] 126 groups were defined more than once and skipped...
+21:07:34.86 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+21:07:34.94 [CE][LoadPrototype] :: loaded 0 prototypes
+21:07:34.95   38 containers, 66 points
+21:07:34.95   0 dispatches, 0 proxies
+21:07:34.95 [CE][LoadPrototype] :: last group name: StoneLoc38...
+21:07:34.139 [CE][LoadMap] "Group" :: loaded 1880 groups, groups failed: 0, largest group range: 36.4
+21:07:34.141 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+21:07:34.153 [CE][Links] found 720 total links between groups, of 1880
+21:07:34.153 [CE][LoadClusters] "Cluster" :: Loading files...
+21:07:34.163 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+21:07:34.165 [CE][Storage] ver:21 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin"
+21:07:34.165 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.001"
+21:07:34.165 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.002"
+21:07:34.166 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin".
+21:07:34.345 [CE][offlineDB] :: Loaded 22 dynamic events 174 total types.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (Hatchback_02_BanditKitty) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZ) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZ_Black) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZ_LightGreen) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZRoofless) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZRoofless_Black) as the type does not exist.
+21:07:34.345 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZRoofless_LightGreen) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargo) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargo_Black) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargo_LightGreen) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargoRoofless) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargoRoofless_Black) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionUAZCargoRoofless_LightGreen) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionTractor) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionTractor_Blue) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleCivilianCars) :: Unable to create child (ExpansionTractor_Green) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Black) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Lime) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Red) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_White) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Wine) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Yellow) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_YellowBright) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Blueline) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Digital) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Elliptical) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Furious) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_GrayWatcher) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Jeans) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Resistance) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Shadow) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Sheriff) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Speedy) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Sunset) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Vrana) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Wasp) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMh6_Wave) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin_Dahoman) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin_Ion) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin_President) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin_Vrana) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionMerlin_Wave) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionUh1h) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionUh1h_Medical) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionUh1h_Uber) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionUh1h_Resistance) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleHelicopters) :: Unable to create child (ExpansionGyrocopter) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleBoats) :: Unable to create child (ExpansionUtilityBoat) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleBoats) :: Unable to create child (ExpansionZodiacBoat) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleBoats) :: Unable to create child (ExpansionZodiacBoat_Black) as the type does not exist.
+21:07:34.346 !!! [CE][DE] (VehicleBoats) :: Unable to create child (ExpansionZodiacBoat_Green) as the type does not exist.
+21:07:34.346 [CE][offlineDB] :: Loaded 24 dynamic events 174 total types.
+21:07:34.364 !!! [CE][offlineDB] :: Type 'Mag_DE_9rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'Telnyashka' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'ManSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.365 !!! [CE][offlineDB] :: Type 'SportGlasses' will be ignored. (Type does not exist. (Typo?))
+21:07:34.366 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+21:07:34.366 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.366 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.366 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.367 !!! [CE] :: Unknown usage: 'Lunapark'.
+21:07:34.367 !!! [CE] :: Unknown usage: 'Lunapark'.
+21:07:34.367 !!! [CE] :: Unknown usage: 'Lunapark'.
+21:07:34.367 !!! [CE] :: Unknown usage: 'Lunapark'.
+21:07:34.376 !!! [CE][offlineDB] :: Type 'OffroadHatchback_WhiteRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.377 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.378 !!! [CE][offlineDB] :: Type 'OffroadHatchback_GreenRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.378 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlackRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.378 !!! [CE][offlineDB] :: Type 'Hatchback_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_1_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_1_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Door_2_2_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Hood_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.379 !!! [CE][offlineDB] :: Type 'Hatchback_02_Trunk_BanditKitty' will be ignored. (Type does not exist. (Typo?))
+21:07:34.380 !!! [CE][offlineDB] :: Type 'Sedan_02_GreyRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.380 !!! [CE][offlineDB] :: Type 'Sedan_02_RedRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.380 !!! [CE][offlineDB] :: Type 'Sedan_02_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.381 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.381 !!! [CE][offlineDB] :: Type 'Sedan_02_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.382 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.383 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.383 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.383 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.384 !!! [CE][offlineDB] :: Type 'Sedan_02_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.384 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.385 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_1_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.385 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_1_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Sedan_02_Door_2_2_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Sedan_02_Hood_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Sedan_02_Trunk_BlueRust' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.386 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Wine' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Wine' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Wine' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Wine' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Lime' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Lime' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Lime' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Lime' will be ignored. (Type does not exist. (Typo?))
+21:07:34.387 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.388 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.388 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.388 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.388 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'Truck_01_Hood_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'Truck_01_Door_1_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'Truck_01_Door_2_1_YellowBright' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'ExpansionMh6' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Blueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Digital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Elliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.389 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Furious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Jeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Shadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sheriff' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Speedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Sunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.390 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.391 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.391 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.391 !!! [CE][offlineDB] :: Type 'ExpansionUh1h' will be ignored. (Type does not exist. (Typo?))
+21:07:34.392 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Civilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.392 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.392 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.392 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Uber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.392 !!! [CE][offlineDB] :: Type 'ExpansionMerlin' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Dahoman' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Ion' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_President' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMh6Wreck' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionUh1hWreck' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionMerlinWreck' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopterWreck' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionLHD' will be ignored. (Type does not exist. (Typo?))
+21:07:34.393 !!! [CE][offlineDB] :: Type 'ExpansionUAZ' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargo_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZCargoRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionUAZRoofless_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.394 !!! [CE][offlineDB] :: Type 'ExpansionVodnik' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionBus' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionBus_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionBus_Weeb' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionTractor' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.395 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.396 !!! [CE][offlineDB] :: Type 'Expansion_Landrover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.396 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.397 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.397 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.398 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.398 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Ruined' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.399 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Orange' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.400 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.401 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.401 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.401 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.401 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.401 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.402 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.402 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.402 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.403 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.403 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.403 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Wheel_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Hood_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Driverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Codriverdoor_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Left_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Right_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'Expansion_Landrover_Trunk_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionHelicopterBattery' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionAircraftBattery' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionIgniterPlug' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionHydraulicHoses' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionBusWheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionBusWheelDouble' will be ignored. (Type does not exist. (Typo?))
+21:07:34.404 !!! [CE][offlineDB] :: Type 'ExpansionUAZWheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.405 !!! [CE][offlineDB] :: Type 'ExpansionTractorFrontWheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.405 !!! [CE][offlineDB] :: Type 'ExpansionTractorBackWheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.405 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.406 !!! [CE][offlineDB] :: Type 'ExpansionTractorDoorsCoDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.406 !!! [CE][offlineDB] :: Type 'ExpansionVodnikWheel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.406 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.406 !!! [CE][offlineDB] :: Type 'ExpansionVodnikDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.407 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood' will be ignored. (Type does not exist. (Typo?))
+21:07:34.407 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.407 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver' will be ignored. (Type does not exist. (Typo?))
+21:07:34.407 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.407 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.408 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.408 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.409 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.410 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.411 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.411 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorHood_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.412 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.412 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCoDriver_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo1_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUAZDoorCargo2_LightGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.413 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Civilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Civilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.414 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.416 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.416 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.416 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_1_Uber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.416 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_1_2_Uber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_1_Uber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'ExpansionUh1hDoor_2_2_Uber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.417 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.418 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.418 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Blueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.418 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Blueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.419 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Digital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.420 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Digital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.420 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Digital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.421 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Digital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Elliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Elliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Furious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Furious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.422 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Furious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Furious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_GrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Jeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Jeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.423 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.424 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.424 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Resistance' will be ignored. (Type does not exist. (Typo?))
+21:07:34.424 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.424 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.425 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Shadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.425 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Shadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.425 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+21:07:34.425 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+21:07:34.426 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sheriff' will be ignored. (Type does not exist. (Typo?))
+21:07:34.426 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sheriff' will be ignored. (Type does not exist. (Typo?))
+21:07:34.428 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.428 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.429 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Speedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.430 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Speedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.431 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.431 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.431 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Sunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Sunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Vrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.432 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_1_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_1_2_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_1_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'Expansion_Mh6_Door_2_2_Wave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.433 !!! [CE][offlineDB] :: Type 'ExpansionKar98ScopeOptic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.434 !!! [CE][offlineDB] :: Type 'ExpansionDeltapointOptic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.434 !!! [CE][offlineDB] :: Type 'ExpansionEXPS3HoloOptic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'ExpansionHAMROptic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'Expansion_PMII25Optic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'ExpansionReflexMRSOptic' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'Expansion_M1A_RailAtt' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'Expansion_ANPEQ15_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'Expansion_Kar98_Bayonet' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'ExpansionSatchel' will be ignored. (Type does not exist. (Typo?))
+21:07:34.435 !!! [CE][offlineDB] :: Type 'Expansion_Crossbow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.436 !!! [CE][offlineDB] :: Type 'ExpansionRPG7' will be ignored. (Type does not exist. (Typo?))
+21:07:34.436 !!! [CE][offlineDB] :: Type 'ExpansionLAW' will be ignored. (Type does not exist. (Typo?))
+21:07:34.437 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Type does not exist. (Typo?))
+21:07:34.437 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Type does not exist. (Typo?))
+21:07:34.438 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.438 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+21:07:34.439 !!! [CE][offlineDB] :: Type 'Expansion_M9' will be ignored. (Type does not exist. (Typo?))
+21:07:34.439 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+21:07:34.440 !!! [CE][offlineDB] :: Type 'Expansion_G36' will be ignored. (Type does not exist. (Typo?))
+21:07:34.440 !!! [CE][offlineDB] :: Type 'Expansion_MPX' will be ignored. (Type does not exist. (Typo?))
+21:07:34.440 !!! [CE][offlineDB] :: Type 'Expansion_MP5' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_MP5SD' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_MP5_RailAtt' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_MP7' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_Kedr' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_VityazSN' will be ignored. (Type does not exist. (Typo?))
+21:07:34.441 !!! [CE][offlineDB] :: Type 'Expansion_M16' will be ignored. (Type does not exist. (Typo?))
+21:07:34.442 !!! [CE][offlineDB] :: Type 'Expansion_M1A' will be ignored. (Type does not exist. (Typo?))
+21:07:34.442 !!! [CE][offlineDB] :: Type 'Expansion_M14' will be ignored. (Type does not exist. (Typo?))
+21:07:34.442 !!! [CE][offlineDB] :: Type 'Expansion_DT11' will be ignored. (Type does not exist. (Typo?))
+21:07:34.442 !!! [CE][offlineDB] :: Type 'Expansion_BenelliM4' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'Expansion_AWM' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'Expansion_Kar98' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_46x30_25rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_338_15rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'Expansion_AmmoBox_8mm_15rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_8mm' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'ExpansionAmmoRPG' will be ignored. (Type does not exist. (Typo?))
+21:07:34.443 !!! [CE][offlineDB] :: Type 'ExpansionAmmoLAW' will be ignored. (Type does not exist. (Typo?))
+21:07:34.444 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.444 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.444 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.444 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.445 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+21:07:34.445 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+21:07:34.445 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+21:07:34.446 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+21:07:34.446 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+21:07:34.446 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.447 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+21:07:34.447 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+21:07:34.447 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_HE' will be ignored. (Type does not exist. (Typo?))
+21:07:34.447 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_46x30' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_338' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_ArrowBolt' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Taser' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Vityaz_30Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_20Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_10Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M9_15Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MPX_50Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_G36_30Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Kedr_20Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MP7_40Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.448 !!! [CE][offlineDB] :: Type 'Mag_Expansion_AWM_5Rnd' will be ignored. (Type does not exist. (Typo?))
+21:07:34.449 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteUSD' will be ignored. (Type does not exist. (Typo?))
+21:07:34.449 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteEuro' will be ignored. (Type does not exist. (Typo?))
+21:07:34.449 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteHryvnia' will be ignored. (Type does not exist. (Typo?))
+21:07:34.450 !!! [CE][offlineDB] :: Type 'ExpansionLumber1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.450 !!! [CE][offlineDB] :: Type 'ExpansionLumber1_5' will be ignored. (Type does not exist. (Typo?))
+21:07:34.450 !!! [CE][offlineDB] :: Type 'ExpansionLumber3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.450 !!! [CE][offlineDB] :: Type 'ExpansionFloorKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.451 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillarKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.451 !!! [CE][offlineDB] :: Type 'ExpansionRampKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.451 !!! [CE][offlineDB] :: Type 'ExpansionStairKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.451 !!! [CE][offlineDB] :: Type 'ExpansionWallKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.451 !!! [CE][offlineDB] :: Type 'ExpansionCamoBoxKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.452 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGateKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.452 !!! [CE][offlineDB] :: Type 'ExpansionCamoTentKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.453 !!! [CE][offlineDB] :: Type 'ExpansionSafeLarge' will be ignored. (Type does not exist. (Typo?))
+21:07:34.453 !!! [CE][offlineDB] :: Type 'ExpansionSafeMini' will be ignored. (Type does not exist. (Typo?))
+21:07:34.453 !!! [CE][offlineDB] :: Type 'ExpansionSafeMedium' will be ignored. (Type does not exist. (Typo?))
+21:07:34.453 !!! [CE][offlineDB] :: Type 'ExpansionGunrack' will be ignored. (Type does not exist. (Typo?))
+21:07:34.454 !!! [CE][offlineDB] :: Type 'ExpansionHelipadKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.454 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWireKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.454 !!! [CE][offlineDB] :: Type 'ExpansionHescoKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.454 !!! [CE][offlineDB] :: Type 'ExpansionCodeLock' will be ignored. (Type does not exist. (Typo?))
+21:07:34.454 !!! [CE][offlineDB] :: Type 'ExpansionCone' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionSignDanger3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionSignRoadBarrier' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWire' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionHesco' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGate' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionCamoBox' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionCamoTent' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionHelipad' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionStove' will be ignored. (Type does not exist. (Typo?))
+21:07:34.455 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillar' will be ignored. (Type does not exist. (Typo?))
+21:07:34.456 !!! [CE][offlineDB] :: Type 'ExpansionWall6x3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.456 !!! [CE][offlineDB] :: Type 'ExpansionFloor6x6' will be ignored. (Type does not exist. (Typo?))
+21:07:34.456 !!! [CE][offlineDB] :: Type 'ExpansionFloor3x3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.456 !!! [CE][offlineDB] :: Type 'ExpansionRamp6x1_5x6' will be ignored. (Type does not exist. (Typo?))
+21:07:34.456 !!! [CE][offlineDB] :: Type 'ExpansionStairS1_5x3x3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeter' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeterKit' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionCarAdminKey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionCarKey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionGPS' will be ignored. (Type does not exist. (Typo?))
+21:07:34.457 !!! [CE][offlineDB] :: Type 'ExpansionBoltCutters' will be ignored. (Type does not exist. (Typo?))
+21:07:34.458 !!! [CE][offlineDB] :: Type 'ExpansionPropaneTorch' will be ignored. (Type does not exist. (Typo?))
+21:07:34.458 !!! [CE][offlineDB] :: Type 'ExpansionToolBox' will be ignored. (Type does not exist. (Typo?))
+21:07:34.459 !!! [CE][offlineDB] :: Type 'ExpansionMilkBottle' will be ignored. (Type does not exist. (Typo?))
+21:07:34.459 !!! [CE][offlineDB] :: Type 'ExpansionBread1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.460 !!! [CE][offlineDB] :: Type 'ExpansionBread2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.460 !!! [CE][offlineDB] :: Type 'ExpansionBread3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.461 !!! [CE][offlineDB] :: Type 'ExpansionCheese1' will be ignored. (Type does not exist. (Typo?))
+21:07:34.461 !!! [CE][offlineDB] :: Type 'ExpansionCheese2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionCheese3' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionCheese4' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross_LowLifetime' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGreen' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWhite' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanRed' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlack' will be ignored. (Type does not exist. (Typo?))
+21:07:34.462 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.463 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWine' will be ignored. (Type does not exist. (Typo?))
+21:07:34.463 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanYellow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.463 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWeeb' will be ignored. (Type does not exist. (Typo?))
+21:07:34.463 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDahoman' will be ignored. (Type does not exist. (Typo?))
+21:07:34.463 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanIon' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanPresident' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanVrana' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWave' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanCivilian' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanMedical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanUber' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanBlueline' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanDigital' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanElliptical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanFurious' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanGrayWatcher' will be ignored. (Type does not exist. (Typo?))
+21:07:34.464 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanJeans' will be ignored. (Type does not exist. (Typo?))
+21:07:34.465 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanShadow' will be ignored. (Type does not exist. (Typo?))
+21:07:34.465 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSpeedy' will be ignored. (Type does not exist. (Typo?))
+21:07:34.465 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanSunset' will be ignored. (Type does not exist. (Typo?))
+21:07:34.465 !!! [CE][offlineDB] :: Type 'ExpansionSpraycanWasp' will be ignored. (Type does not exist. (Typo?))
+21:07:34.466 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer' will be ignored. (Type does not exist. (Typo?))
+21:07:34.466 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Medical' will be ignored. (Type does not exist. (Typo?))
+21:07:34.466 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military' will be ignored. (Type does not exist. (Typo?))
+21:07:34.467 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Basebuilding' will be ignored. (Type does not exist. (Typo?))
+21:07:34.467 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Grey' will be ignored. (Type does not exist. (Typo?))
+21:07:34.468 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Blue' will be ignored. (Type does not exist. (Typo?))
+21:07:34.468 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Olive' will be ignored. (Type does not exist. (Typo?))
+21:07:34.468 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_GreenCamo' will be ignored. (Type does not exist. (Typo?))
+21:07:34.468 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_MarineCamo' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_OliveCamo2' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'ExpansionAirdropContainer_Military_WinterCamo' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'Expansion_Generic_Vehicle_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'ExpansionGarageVehicle' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'CivilianSedan_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'Hatchback_02_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'OffroadHatchback_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'Offroad_02_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'Sedan_02_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'Truck_01_Covered_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.469 !!! [CE][offlineDB] :: Type 'ExpansionBus_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionGyrocopter_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'Expansion_LandRover_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionMerlin_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionMh6_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionUh1h_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionTractor_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionUAZ_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionVodnik_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionUtilityBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.470 !!! [CE][offlineDB] :: Type 'ExpansionZodiacBoat_Cover' will be ignored. (Type does not exist. (Typo?))
+21:07:34.477 [CE][DE][SPAWNS] :: Total positions: 718
+21:07:34.477 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+21:07:34.479 [CE][Storage] ver:21 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin"
+21:07:34.479 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.001"
+21:07:34.479 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.002"
+21:07:34.480 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin".
+21:07:34.480 [CE][DynamicEvent] Load  Events:[24] Primary spawners: 24 Secondary spawners: 0
+21:07:34.481 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+21:07:34.481 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+21:07:34.482 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+21:07:34.482 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 9 items.
+21:07:34.487   9 items loaded. (0 failed)
+21:07:34.488 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+21:07:34.489 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+21:07:34.489 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+21:07:34.490 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 54 items.
+21:07:34.518 !!! Serious stream damage detected during load, file offset: f85
+21:07:34.557 !!! Serious stream damage detected during load, file offset: 2557
+21:07:34.564   52 items loaded. (2 failed)
+21:07:34.566 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+21:07:34.566 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+21:07:34.567 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+21:07:34.567 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 175 items.
+21:07:34.606 !!! Serious stream damage detected during load, file offset: 1697
+21:07:34.611 !!! Serious stream damage detected during load, file offset: 1b55
+21:07:34.613 !!! Serious stream damage detected during load, file offset: 1cd1
+21:07:34.649 !!! Serious stream damage detected during load, file offset: 2a00
+21:07:34.662 !!! Serious stream damage detected during load, file offset: 30c7
+21:07:34.689 !!! Serious stream damage detected during load, file offset: 43e5
+21:07:34.694 !!! Serious stream damage detected during load, file offset: 47c6
+21:07:34.722 !!! Serious stream damage detected during load, file offset: 5ef5
+21:07:34.736 !!! Serious stream damage detected during load, file offset: 69a8
+21:07:34.738 !!! Serious stream damage detected during load, file offset: 6bec
+21:07:34.739 !!! Serious stream damage detected during load, file offset: 6cb7
+21:07:34.752 !!! Serious stream damage detected during load, file offset: 774e
+21:07:34.792 !!! Serious stream damage detected during load, file offset: 906f
+21:07:34.792   162 items loaded. (13 failed)
+21:07:34.792 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+21:07:34.793 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+21:07:34.794 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+21:07:34.794 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 1096 items.
+21:07:34.805 !!! Serious stream damage detected during load, file offset: 747
+21:07:34.842 !!! Serious stream damage detected during load, file offset: 1bbb
+21:07:34.893 !!! Serious stream damage detected during load, file offset: 4097
+21:07:34.914 !!! Serious stream damage detected during load, file offset: 4fa1
+21:07:34.937 !!! Serious stream damage detected during load, file offset: 5edc
+21:07:34.979 !!! Serious stream damage detected during load, file offset: 82e8
+21:07:34.983 !!! Serious stream damage detected during load, file offset: 8819
+21:07:34.988 !!! Serious stream damage detected during load, file offset: 8c89
+21:07:34.988 !!! Serious stream damage detected during load, file offset: 8e0e
+21:07:34.993 !!! Serious stream damage detected during load, file offset: 921c
+21:07:35.14 !!! Serious stream damage detected during load, file offset: 9e9b
+21:07:35.18 !!! Serious stream damage detected during load, file offset: a2a8
+21:07:35.23 !!! Serious stream damage detected during load, file offset: a854
+21:07:35.34 !!! Serious stream damage detected during load, file offset: b146
+21:07:35.143 !!! Serious stream damage detected during load, file offset: fbcd
+21:07:35.147 !!! Serious stream damage detected during load, file offset: 101ce
+21:07:35.180 !!! Serious stream damage detected during load, file offset: 11ab6
+21:07:35.219 !!! Serious stream damage detected during load, file offset: 13d38
+21:07:35.228 !!! Serious stream damage detected during load, file offset: 1448e
+21:07:35.250 !!! Serious stream damage detected during load, file offset: 157ba
+21:07:35.264 !!! Serious stream damage detected during load, file offset: 16555
+21:07:35.265 !!! Serious stream damage detected during load, file offset: 166e0
+21:07:35.266 !!! Serious stream damage detected during load, file offset: 167a9
+21:07:35.267 !!! Serious stream damage detected during load, file offset: 1693a
+21:07:35.279 !!! Serious stream damage detected during load, file offset: 1751f
+21:07:35.288 !!! Serious stream damage detected during load, file offset: 18178
+21:07:35.294 !!! Serious stream damage detected during load, file offset: 1848d
+21:07:35.298 !!! Serious stream damage detected during load, file offset: 18994
+21:07:35.301 !!! Serious stream damage detected during load, file offset: 18d55
+21:07:35.308 !!! Serious stream damage detected during load, file offset: 1935d
+21:07:35.314 !!! Serious stream damage detected during load, file offset: 1989d
+21:07:35.324 !!! Serious stream damage detected during load, file offset: 1a104
+21:07:35.339 !!! Serious stream damage detected during load, file offset: 1b133
+21:07:35.398 !!! Serious stream damage detected during load, file offset: 1f718
+21:07:35.429 !!! Serious stream damage detected during load, file offset: 21927
+21:07:35.471 !!! Serious stream damage detected during load, file offset: 24a65
+21:07:35.483 !!! Serious stream damage detected during load, file offset: 258fe
+21:07:35.506 !!! Serious stream damage detected during load, file offset: 27238
+21:07:35.514 !!! Serious stream damage detected during load, file offset: 27a67
+21:07:35.520 !!! Serious stream damage detected during load, file offset: 28165
+21:07:35.564 !!! Serious stream damage detected during load, file offset: 2b7e9
+21:07:35.564 !!! Serious stream damage detected during load, file offset: 2b8b2
+21:07:35.580 !!! Serious stream damage detected during load, file offset: 2cec5
+21:07:35.591 !!! Serious stream damage detected during load, file offset: 2e042
+21:07:35.611 !!! Serious stream damage detected during load, file offset: 2f341
+21:07:35.614 !!! Serious stream damage detected during load, file offset: 2f7ad
+21:07:35.659 !!! Serious stream damage detected during load, file offset: 327c0
+21:07:35.660 !!! Serious stream damage detected during load, file offset: 3293d
+21:07:35.672 !!! Serious stream damage detected during load, file offset: 336b3
+21:07:35.677 !!! Serious stream damage detected during load, file offset: 33d85
+21:07:35.681 !!! Serious stream damage detected during load, file offset: 342d0
+21:07:35.690 !!! Serious stream damage detected during load, file offset: 35261
+21:07:35.691 !!! Serious stream damage detected during load, file offset: 3532d
+21:07:35.692 !!! Serious stream damage detected during load, file offset: 35626
+21:07:35.712 !!! Serious stream damage detected during load, file offset: 37166
+21:07:35.716 !!! Serious stream damage detected during load, file offset: 37809
+21:07:35.731 !!! Serious stream damage detected during load, file offset: 3894f
+21:07:35.749 !!! Serious stream damage detected during load, file offset: 3a1e6
+21:07:35.752 !!! Serious stream damage detected during load, file offset: 3a4f4
+21:07:35.769 !!! Serious stream damage detected during load, file offset: 3b90d
+21:07:35.784 !!! Serious stream damage detected during load, file offset: 3cae2
+21:07:35.800 !!! Serious stream damage detected during load, file offset: 3d9d0
+21:07:35.803 !!! Serious stream damage detected during load, file offset: 3de5c
+21:07:35.807 !!! Serious stream damage detected during load, file offset: 3e2ee
+21:07:35.814 !!! Serious stream damage detected during load, file offset: 3ee0d
+21:07:35.830   1031 items loaded. (65 failed)
+21:07:35.831 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+21:07:35.832 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+21:07:35.832 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+21:07:35.833 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 2674 items.
+21:07:35.836 !!! Serious stream damage detected during load, file offset: 351
+21:07:35.845 !!! Serious stream damage detected during load, file offset: ef2
+21:07:35.855 !!! Serious stream damage detected during load, file offset: 16ad
+21:07:35.875 !!! Serious stream damage detected during load, file offset: 26fb
+21:07:35.880 !!! Serious stream damage detected during load, file offset: 2ce1
+21:07:35.882 !!! Serious stream damage detected during load, file offset: 3006
+21:07:35.892 !!! Serious stream damage detected during load, file offset: 3d02
+21:07:35.905 !!! Serious stream damage detected during load, file offset: 4e89
+21:07:35.945 !!! Serious stream damage detected during load, file offset: 7cb4
+21:07:35.951 !!! Serious stream damage detected during load, file offset: 849a
+21:07:35.956 !!! Serious stream damage detected during load, file offset: 8c05
+21:07:35.957 !!! Serious stream damage detected during load, file offset: 8d8b
+21:07:35.961 !!! Serious stream damage detected during load, file offset: 90b7
+21:07:35.963 !!! Serious stream damage detected during load, file offset: 9309
+21:07:35.973 !!! Serious stream damage detected during load, file offset: 9e43
+21:07:35.978 !!! Serious stream damage detected during load, file offset: a233
+21:07:35.983 !!! Serious stream damage detected during load, file offset: a8d3
+21:07:35.993 !!! Serious stream damage detected during load, file offset: b57f
+21:07:36.01 !!! Serious stream damage detected during load, file offset: c155
+21:07:36.11 !!! Serious stream damage detected during load, file offset: cff9
+21:07:36.13 !!! Serious stream damage detected during load, file offset: d52c
+21:07:36.14 !!! Serious stream damage detected during load, file offset: d6f7
+21:07:36.15 !!! Serious stream damage detected during load, file offset: d7c1
+21:07:36.15 !!! Serious stream damage detected during load, file offset: d944
+21:07:36.17 !!! Serious stream damage detected during load, file offset: dc3c
+21:07:36.22 !!! Serious stream damage detected during load, file offset: e347
+21:07:36.36 !!! Serious stream damage detected during load, file offset: f3db
+21:07:36.38 !!! Serious stream damage detected during load, file offset: f6fa
+21:07:36.51 !!! Serious stream damage detected during load, file offset: 1079c
+21:07:36.71 !!! Serious stream damage detected during load, file offset: 12105
+21:07:36.73 !!! Serious stream damage detected during load, file offset: 123fd
+21:07:36.75 !!! Serious stream damage detected during load, file offset: 1263d
+21:07:36.88 !!! Serious stream damage detected during load, file offset: 13576
+21:07:36.109 !!! Serious stream damage detected during load, file offset: 153ad
+21:07:36.133 !!! Serious stream damage detected during load, file offset: 16eda
+21:07:36.140 !!! Serious stream damage detected during load, file offset: 176fb
+21:07:36.141 !!! Serious stream damage detected during load, file offset: 177c2
+21:07:36.143 !!! Serious stream damage detected during load, file offset: 17b8d
+21:07:36.144 !!! Serious stream damage detected during load, file offset: 17df4
+21:07:36.153 !!! Serious stream damage detected during load, file offset: 18c61
+21:07:36.167 !!! Serious stream damage detected during load, file offset: 19f69
+21:07:36.175 !!! Serious stream damage detected during load, file offset: 1a880
+21:07:36.181 !!! Serious stream damage detected during load, file offset: 1af1e
+21:07:36.193 !!! Serious stream damage detected during load, file offset: 1c03a
+21:07:36.208 !!! Serious stream damage detected during load, file offset: 1d2c1
+21:07:36.216 !!! Serious stream damage detected during load, file offset: 1de85
+21:07:36.219 !!! Serious stream damage detected during load, file offset: 1e285
+21:07:36.230 !!! Serious stream damage detected during load, file offset: 1edd8
+21:07:36.231 !!! Serious stream damage detected during load, file offset: 1ef78
+21:07:36.241 !!! Serious stream damage detected during load, file offset: 1fc53
+21:07:36.252 !!! Serious stream damage detected during load, file offset: 2074b
+21:07:36.255 !!! Serious stream damage detected during load, file offset: 20bcf
+21:07:36.267 !!! Serious stream damage detected during load, file offset: 2195d
+21:07:36.270 !!! Serious stream damage detected during load, file offset: 21ea8
+21:07:36.274 !!! Serious stream damage detected during load, file offset: 2241a
+21:07:36.276 !!! Serious stream damage detected during load, file offset: 224e6
+21:07:36.302 !!! Serious stream damage detected during load, file offset: 2498c
+21:07:36.304 !!! Serious stream damage detected during load, file offset: 24df5
+21:07:36.307 !!! Serious stream damage detected during load, file offset: 250ef
+21:07:36.318 !!! Serious stream damage detected during load, file offset: 261b5
+21:07:36.324 !!! Serious stream damage detected during load, file offset: 26b8e
+21:07:36.334 !!! Serious stream damage detected during load, file offset: 278be
+21:07:36.335 !!! Serious stream damage detected during load, file offset: 27a42
+21:07:36.338 !!! Serious stream damage detected during load, file offset: 27ef7
+21:07:36.342 !!! Serious stream damage detected during load, file offset: 28507
+21:07:36.361 !!! Serious stream damage detected during load, file offset: 2a358
+21:07:36.364 !!! Serious stream damage detected during load, file offset: 2aa14
+21:07:36.364 !!! Serious stream damage detected during load, file offset: 2aadd
+21:07:36.367 !!! Serious stream damage detected during load, file offset: 2ac6b
+21:07:36.398 !!! Serious stream damage detected during load, file offset: 2d3b3
+21:07:36.400 !!! Serious stream damage detected during load, file offset: 2d69b
+21:07:36.424 !!! Serious stream damage detected during load, file offset: 2f336
+21:07:36.428 !!! Serious stream damage detected during load, file offset: 2f6e5
+21:07:36.433 !!! Serious stream damage detected during load, file offset: 2fde3
+21:07:36.437 !!! Serious stream damage detected during load, file offset: 3033d
+21:07:36.441 !!! Serious stream damage detected during load, file offset: 307aa
+21:07:36.449 !!! Serious stream damage detected during load, file offset: 30f4f
+21:07:36.455 !!! Serious stream damage detected during load, file offset: 3161b
+21:07:36.459 !!! Serious stream damage detected during load, file offset: 31c26
+21:07:36.466 !!! Serious stream damage detected during load, file offset: 328ee
+21:07:36.492 !!! Serious stream damage detected during load, file offset: 34972
+21:07:36.501 !!! Serious stream damage detected during load, file offset: 3537c
+21:07:36.508 !!! Serious stream damage detected during load, file offset: 35ca9
+21:07:36.516 !!! Serious stream damage detected during load, file offset: 366e0
+21:07:36.518 !!! Serious stream damage detected during load, file offset: 36922
+21:07:36.533 !!! Serious stream damage detected during load, file offset: 37b5b
+21:07:36.569 !!! Serious stream damage detected during load, file offset: 3a626
+21:07:36.575 !!! Serious stream damage detected during load, file offset: 3abcd
+21:07:36.580 !!! Serious stream damage detected during load, file offset: 3b290
+21:07:36.592 !!! Serious stream damage detected during load, file offset: 3c325
+21:07:36.592 !!! Serious stream damage detected during load, file offset: 3c4a6
+21:07:36.597 !!! Serious stream damage detected during load, file offset: 3cb72
+21:07:36.599 !!! Serious stream damage detected during load, file offset: 3cfdf
+21:07:36.613 !!! Serious stream damage detected during load, file offset: 3e131
+21:07:36.618 !!! Serious stream damage detected during load, file offset: 3e802
+21:07:36.619 !!! Serious stream damage detected during load, file offset: 3ea40
+21:07:36.624 !!! Serious stream damage detected during load, file offset: 3f24d
+21:07:36.630 !!! Serious stream damage detected during load, file offset: 3f9a9
+21:07:36.654 !!! Serious stream damage detected during load, file offset: 41caf
+21:07:36.662 !!! Serious stream damage detected during load, file offset: 428c5
+21:07:36.668 !!! Serious stream damage detected during load, file offset: 42eee
+21:07:36.678 !!! Serious stream damage detected during load, file offset: 43d65
+21:07:36.680 !!! Serious stream damage detected during load, file offset: 4405f
+21:07:36.684 !!! Serious stream damage detected during load, file offset: 445e2
+21:07:36.699 !!! Serious stream damage detected during load, file offset: 45a97
+21:07:36.719 !!! Serious stream damage detected during load, file offset: 4754a
+21:07:36.727 !!! Serious stream damage detected during load, file offset: 47e47
+21:07:36.731 !!! Serious stream damage detected during load, file offset: 4830b
+21:07:36.735 !!! Serious stream damage detected during load, file offset: 48a90
+21:07:36.737 !!! Serious stream damage detected during load, file offset: 48e76
+21:07:36.739 !!! Serious stream damage detected during load, file offset: 4909c
+21:07:36.740 !!! Serious stream damage detected during load, file offset: 49224
+21:07:36.746 !!! Serious stream damage detected during load, file offset: 49b67
+21:07:36.758 !!! Serious stream damage detected during load, file offset: 4acfc
+21:07:36.762 !!! Serious stream damage detected during load, file offset: 4b22c
+21:07:36.766 !!! Serious stream damage detected during load, file offset: 4b64e
+21:07:36.771 !!! Serious stream damage detected during load, file offset: 4bf91
+21:07:36.774 !!! Serious stream damage detected during load, file offset: 4c3a3
+21:07:36.776 !!! Serious stream damage detected during load, file offset: 4c72c
+21:07:36.776 !!! Serious stream damage detected during load, file offset: 4c7f8
+21:07:36.776 !!! Serious stream damage detected during load, file offset: 4c8c3
+21:07:36.788 !!! Serious stream damage detected during load, file offset: 4db1c
+21:07:36.798 !!! Serious stream damage detected during load, file offset: 4eaae
+21:07:36.802 !!! Serious stream damage detected during load, file offset: 4ee6d
+21:07:36.804 !!! Serious stream damage detected during load, file offset: 4f217
+21:07:36.808 !!! Serious stream damage detected during load, file offset: 4f892
+21:07:36.809 !!! Serious stream damage detected during load, file offset: 4fa13
+21:07:36.813 !!! Serious stream damage detected during load, file offset: 4ffd2
+21:07:36.819 !!! Serious stream damage detected during load, file offset: 505b6
+21:07:36.828 !!! Serious stream damage detected during load, file offset: 5113f
+21:07:36.834 !!! Serious stream damage detected during load, file offset: 51893
+21:07:36.834 !!! Serious stream damage detected during load, file offset: 5195d
+21:07:36.848 !!! Serious stream damage detected during load, file offset: 529ba
+21:07:36.849 !!! Serious stream damage detected during load, file offset: 52b40
+21:07:36.854 !!! Serious stream damage detected during load, file offset: 5326a
+21:07:36.866 !!! Serious stream damage detected during load, file offset: 54168
+21:07:36.866 !!! Serious stream damage detected during load, file offset: 54231
+21:07:36.868 !!! Serious stream damage detected during load, file offset: 54528
+21:07:36.873 !!! Serious stream damage detected during load, file offset: 54ec7
+21:07:36.887 !!! Serious stream damage detected during load, file offset: 5679e
+21:07:36.896 !!! Serious stream damage detected during load, file offset: 574f1
+21:07:36.897 !!! Serious stream damage detected during load, file offset: 57672
+21:07:36.898 !!! Serious stream damage detected during load, file offset: 577f6
+21:07:36.898 !!! Serious stream damage detected during load, file offset: 57980
+21:07:36.923 !!! Serious stream damage detected during load, file offset: 59964
+21:07:36.938 !!! Serious stream damage detected during load, file offset: 5aca1
+21:07:36.944 !!! Serious stream damage detected during load, file offset: 5b4ae
+21:07:36.961 !!! Serious stream damage detected during load, file offset: 5cad1
+21:07:36.967 !!! Serious stream damage detected during load, file offset: 5d198
+21:07:36.969 !!! Serious stream damage detected during load, file offset: 5d31e
+21:07:36.970 !!! Serious stream damage detected during load, file offset: 5d4a2
+21:07:36.970 !!! Serious stream damage detected during load, file offset: 5d56d
+21:07:36.973 !!! Serious stream damage detected during load, file offset: 5da2e
+21:07:36.975 !!! Serious stream damage detected during load, file offset: 5dd51
+21:07:36.980 !!! Serious stream damage detected during load, file offset: 5e3ad
+21:07:36.984 !!! Serious stream damage detected during load, file offset: 5ea9c
+21:07:36.989 !!! Serious stream damage detected during load, file offset: 5f13b
+21:07:37.11 !!! Serious stream damage detected during load, file offset: 60eb4
+21:07:37.20 !!! Serious stream damage detected during load, file offset: 61aa0
+21:07:37.22 !!! Serious stream damage detected during load, file offset: 61db9
+21:07:37.25 !!! Serious stream damage detected during load, file offset: 622d9
+21:07:37.31 !!! Serious stream damage detected during load, file offset: 629e8
+21:07:37.34 !!! Serious stream damage detected during load, file offset: 62e9b
+21:07:37.39 !!! Serious stream damage detected during load, file offset: 63550
+21:07:37.42 !!! Serious stream damage detected during load, file offset: 63b34
+21:07:37.49 !!! Serious stream damage detected during load, file offset: 641d7
+21:07:37.78 !!! Serious stream damage detected during load, file offset: 66c5a
+21:07:37.78 !!! Serious stream damage detected during load, file offset: 66ddf
+21:07:37.83 !!! Serious stream damage detected during load, file offset: 6740e
+21:07:37.90 !!! Serious stream damage detected during load, file offset: 67ef1
+21:07:37.92 !!! Serious stream damage detected during load, file offset: 681e6
+21:07:37.101 !!! Serious stream damage detected during load, file offset: 68eb2
+21:07:37.102 !!! Serious stream damage detected during load, file offset: 68f7d
+21:07:37.112 !!! Serious stream damage detected during load, file offset: 69f82
+21:07:37.146 !!! Serious stream damage detected during load, file offset: 6c669
+21:07:37.156 !!! Serious stream damage detected during load, file offset: 6d20b
+21:07:37.171 !!! Serious stream damage detected during load, file offset: 6e1de
+21:07:37.187 !!! Serious stream damage detected during load, file offset: 6f2ed
+21:07:37.204 !!! Serious stream damage detected during load, file offset: 70876
+21:07:37.206 !!! Serious stream damage detected during load, file offset: 70b8c
+21:07:37.207 !!! Serious stream damage detected during load, file offset: 70dc2
+21:07:37.210 !!! Serious stream damage detected during load, file offset: 710db
+21:07:37.233 !!! Serious stream damage detected during load, file offset: 7354a
+21:07:37.237 !!! Serious stream damage detected during load, file offset: 73ae8
+21:07:37.243 !!! Serious stream damage detected during load, file offset: 73ffd
+21:07:37.255 !!! Serious stream damage detected during load, file offset: 74f23
+21:07:37.264 !!! Serious stream damage detected during load, file offset: 75b1a
+21:07:37.266 !!! Serious stream damage detected during load, file offset: 75be1
+21:07:37.268 !!! Serious stream damage detected during load, file offset: 75f60
+21:07:37.284 !!! Serious stream damage detected during load, file offset: 77943
+21:07:37.291 !!! Serious stream damage detected during load, file offset: 78291
+21:07:37.309 !!! Serious stream damage detected during load, file offset: 796bb
+21:07:37.311 !!! Serious stream damage detected during load, file offset: 798f9
+21:07:37.320 !!! Serious stream damage detected during load, file offset: 7a55d
+21:07:37.334 !!! Serious stream damage detected during load, file offset: 7b940
+21:07:37.340 !!! Serious stream damage detected during load, file offset: 7c0f2
+21:07:37.342 !!! Serious stream damage detected during load, file offset: 7c29b
+21:07:37.343 !!! Serious stream damage detected during load, file offset: 7c417
+21:07:37.345 !!! Serious stream damage detected during load, file offset: 7c645
+21:07:37.353 !!! Serious stream damage detected during load, file offset: 7d322
+21:07:37.357 !!! Serious stream damage detected during load, file offset: 7dc03
+21:07:37.359 !!! Serious stream damage detected during load, file offset: 7de6a
+21:07:37.362 !!! Serious stream damage detected during load, file offset: 7e2ab
+21:07:37.375 !!! Serious stream damage detected during load, file offset: 7f087
+21:07:37.377 !!! Serious stream damage detected during load, file offset: 7f38a
+21:07:37.390 !!! Serious stream damage detected during load, file offset: 800eb
+21:07:37.394 !!! Serious stream damage detected during load, file offset: 80563
+21:07:37.394 !!! Serious stream damage detected during load, file offset: 80625
+21:07:37.394 !!! Serious stream damage detected during load, file offset: 806ec
+21:07:37.404 !!! Serious stream damage detected during load, file offset: 8142e
+21:07:37.408 !!! Serious stream damage detected during load, file offset: 81951
+21:07:37.409 !!! Serious stream damage detected during load, file offset: 81a0b
+21:07:37.413 !!! Serious stream damage detected during load, file offset: 81de3
+21:07:37.415 !!! Serious stream damage detected during load, file offset: 82022
+21:07:37.423 !!! Serious stream damage detected during load, file offset: 82aac
+21:07:37.446 !!! Serious stream damage detected during load, file offset: 844f8
+21:07:37.447 !!! Serious stream damage detected during load, file offset: 845c4
+21:07:37.454 !!! Serious stream damage detected during load, file offset: 84d17
+21:07:37.457 !!! Serious stream damage detected during load, file offset: 85092
+21:07:37.457 !!! Serious stream damage detected during load, file offset: 8515b
+21:07:37.473 !!! Serious stream damage detected during load, file offset: 8678f
+21:07:37.474 !!! Serious stream damage detected during load, file offset: 86856
+21:07:37.481 !!! Serious stream damage detected during load, file offset: 871ed
+21:07:37.481 !!! Serious stream damage detected during load, file offset: 872b9
+21:07:37.491 !!! Serious stream damage detected during load, file offset: 87e32
+21:07:37.491 !!! Serious stream damage detected during load, file offset: 87efd
+21:07:37.497 !!! Serious stream damage detected during load, file offset: 88662
+21:07:37.504 !!! Serious stream damage detected during load, file offset: 88f1f
+21:07:37.522 !!! Serious stream damage detected during load, file offset: 8a6c9
+21:07:37.528 !!! Serious stream damage detected during load, file offset: 8ad80
+21:07:37.533 !!! Serious stream damage detected during load, file offset: 8b3c8
+21:07:37.534 !!! Serious stream damage detected during load, file offset: 8b6f6
+21:07:37.538 !!! Serious stream damage detected during load, file offset: 8baab
+21:07:37.541 !!! Serious stream damage detected during load, file offset: 8bfd4
+21:07:37.550 !!! Serious stream damage detected during load, file offset: 8c848
+21:07:37.550 !!! Serious stream damage detected during load, file offset: 8c902
+21:07:37.554 !!! Serious stream damage detected during load, file offset: 8cd13
+21:07:37.556 !!! Serious stream damage detected during load, file offset: 8ceb7
+21:07:37.558 !!! Serious stream damage detected during load, file offset: 8d2d9
+21:07:37.563 !!! Serious stream damage detected during load, file offset: 8d7a1
+21:07:37.563 !!! Serious stream damage detected during load, file offset: 8d922
+21:07:37.563 !!! Serious stream damage detected during load, file offset: 8d9e6
+21:07:37.565 !!! Serious stream damage detected during load, file offset: 8deab
+21:07:37.569 !!! Serious stream damage detected during load, file offset: 8e350
+21:07:37.571 !!! Serious stream damage detected during load, file offset: 8e644
+21:07:37.579 !!! Serious stream damage detected during load, file offset: 8f191
+21:07:37.581 !!! Serious stream damage detected during load, file offset: 8f336
+21:07:37.582 !!! Serious stream damage detected during load, file offset: 8f4b9
+21:07:37.584   2426 items loaded. (248 failed)
+21:07:37.586 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+21:07:37.587 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+21:07:37.588 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+21:07:37.588 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 1097 items.
+21:07:37.610 !!! Serious stream damage detected during load, file offset: 16f2
+21:07:37.623 !!! Serious stream damage detected during load, file offset: 25d6
+21:07:37.624 !!! Serious stream damage detected during load, file offset: 2698
+21:07:37.629 !!! Serious stream damage detected during load, file offset: 2c7d
+21:07:37.634 !!! Serious stream damage detected during load, file offset: 33f5
+21:07:37.663 !!! Serious stream damage detected during load, file offset: 565e
+21:07:37.667 !!! Serious stream damage detected during load, file offset: 5c6e
+21:07:37.672 !!! Serious stream damage detected during load, file offset: 6158
+21:07:37.686 !!! Serious stream damage detected during load, file offset: 71be
+21:07:37.688 !!! Serious stream damage detected during load, file offset: 7419
+21:07:37.688 !!! Serious stream damage detected during load, file offset: 74e4
+21:07:37.695 !!! Serious stream damage detected during load, file offset: 7bf4
+21:07:37.699 !!! Serious stream damage detected during load, file offset: 812d
+21:07:37.714 !!! Serious stream damage detected during load, file offset: 9485
+21:07:37.726 !!! Serious stream damage detected during load, file offset: a6dd
+21:07:37.734 !!! Serious stream damage detected during load, file offset: af4c
+21:07:37.746 !!! Serious stream damage detected during load, file offset: be65
+21:07:37.766 !!! Serious stream damage detected during load, file offset: da29
+21:07:37.768 !!! Serious stream damage detected during load, file offset: dbaf
+21:07:37.769 !!! Serious stream damage detected during load, file offset: ddea
+21:07:37.776 !!! Serious stream damage detected during load, file offset: e742
+21:07:37.782 !!! Serious stream damage detected during load, file offset: ef2f
+21:07:37.785 !!! Serious stream damage detected during load, file offset: f43a
+21:07:37.810 !!! Serious stream damage detected during load, file offset: 116d2
+21:07:37.816 !!! Serious stream damage detected during load, file offset: 12388
+21:07:37.839 !!! Serious stream damage detected during load, file offset: 13f8e
+21:07:37.852 !!! Serious stream damage detected during load, file offset: 14f28
+21:07:37.861 !!! Serious stream damage detected during load, file offset: 15ad2
+21:07:37.868 !!! Serious stream damage detected during load, file offset: 16410
+21:07:37.882 !!! Serious stream damage detected during load, file offset: 173f3
+21:07:37.884 !!! Serious stream damage detected during load, file offset: 1790f
+21:07:37.885 !!! Serious stream damage detected during load, file offset: 17abd
+21:07:37.893 !!! Serious stream damage detected during load, file offset: 186c2
+21:07:37.894 !!! Serious stream damage detected during load, file offset: 1877c
+21:07:37.898 !!! Serious stream damage detected during load, file offset: 18ee5
+21:07:37.903 !!! Serious stream damage detected during load, file offset: 19937
+21:07:37.904 !!! Serious stream damage detected during load, file offset: 19ae3
+21:07:37.909 !!! Serious stream damage detected during load, file offset: 1a18b
+21:07:37.914 !!! Serious stream damage detected during load, file offset: 1a793
+21:07:37.925 !!! Serious stream damage detected during load, file offset: 1b9c8
+21:07:37.928 !!! Serious stream damage detected during load, file offset: 1bf5b
+21:07:37.937 !!! Serious stream damage detected during load, file offset: 1cadd
+21:07:37.943 !!! Serious stream damage detected during load, file offset: 1d1b2
+21:07:37.947 !!! Serious stream damage detected during load, file offset: 1d71e
+21:07:37.951 !!! Serious stream damage detected during load, file offset: 1dbfa
+21:07:37.967 !!! Serious stream damage detected during load, file offset: 1f03d
+21:07:37.969 !!! Serious stream damage detected during load, file offset: 1f384
+21:07:37.974 !!! Serious stream damage detected during load, file offset: 1f997
+21:07:37.984 !!! Serious stream damage detected during load, file offset: 2017f
+21:07:37.992 !!! Serious stream damage detected during load, file offset: 20d94
+21:07:37.993 !!! Serious stream damage detected during load, file offset: 20fd3
+21:07:38.16 !!! Serious stream damage detected during load, file offset: 23391
+21:07:38.23 !!! Serious stream damage detected during load, file offset: 23bb3
+21:07:38.23 !!! Serious stream damage detected during load, file offset: 23d27
+21:07:38.24 !!! Serious stream damage detected during load, file offset: 23de4
+21:07:38.34 !!! Serious stream damage detected during load, file offset: 24d6a
+21:07:38.34 !!! Serious stream damage detected during load, file offset: 24e34
+21:07:38.56 !!! Serious stream damage detected during load, file offset: 26ef9
+21:07:38.72 !!! Serious stream damage detected during load, file offset: 2892d
+21:07:38.73 !!! Serious stream damage detected during load, file offset: 28ab2
+21:07:38.75 !!! Serious stream damage detected during load, file offset: 28da7
+21:07:38.82 !!! Serious stream damage detected during load, file offset: 2982b
+21:07:38.85 !!! Serious stream damage detected during load, file offset: 29e07
+21:07:38.100 !!! Serious stream damage detected during load, file offset: 2b383
+21:07:38.102 !!! Serious stream damage detected during load, file offset: 2b85c
+21:07:38.110 !!! Serious stream damage detected during load, file offset: 2c401
+21:07:38.113 !!! Serious stream damage detected during load, file offset: 2c9fe
+21:07:38.115 !!! Serious stream damage detected during load, file offset: 2ccf3
+21:07:38.119 !!! Serious stream damage detected during load, file offset: 2d340
+21:07:38.134 !!! Serious stream damage detected during load, file offset: 2ef72
+21:07:38.138 !!! Serious stream damage detected during load, file offset: 2f3f2
+21:07:38.139 !!! Serious stream damage detected during load, file offset: 2f5b8
+21:07:38.146 !!! Serious stream damage detected during load, file offset: 300be
+21:07:38.148 !!! Serious stream damage detected during load, file offset: 3031c
+21:07:38.150 !!! Serious stream damage detected during load, file offset: 304a2
+21:07:38.155 !!! Serious stream damage detected during load, file offset: 30cb9
+21:07:38.160 !!! Serious stream damage detected during load, file offset: 315fa
+21:07:38.181 !!! Serious stream damage detected during load, file offset: 33271
+21:07:38.183 !!! Serious stream damage detected during load, file offset: 3371d
+21:07:38.187 !!! Serious stream damage detected during load, file offset: 33d63
+21:07:38.201 !!! Serious stream damage detected during load, file offset: 3523a
+21:07:38.202 !!! Serious stream damage detected during load, file offset: 3553b
+21:07:38.207 !!! Serious stream damage detected during load, file offset: 35cf4
+21:07:38.211 !!! Serious stream damage detected during load, file offset: 36301
+21:07:38.217 !!! Serious stream damage detected during load, file offset: 36d05
+21:07:38.222 !!! Serious stream damage detected during load, file offset: 371c0
+21:07:38.223 !!! Serious stream damage detected during load, file offset: 3740b
+21:07:38.225 !!! Serious stream damage detected during load, file offset: 3787b
+21:07:38.227 !!! Serious stream damage detected during load, file offset: 37b74
+21:07:38.235 !!! Serious stream damage detected during load, file offset: 387dc
+21:07:38.237 !!! Serious stream damage detected during load, file offset: 38b09
+21:07:38.239 !!! Serious stream damage detected during load, file offset: 38def
+21:07:38.240 !!! Serious stream damage detected during load, file offset: 38f75
+21:07:38.241 !!! Serious stream damage detected during load, file offset: 391bc
+21:07:38.241 !!! Serious stream damage detected during load, file offset: 39283
+21:07:38.260   1002 items loaded. (95 failed)
+21:07:38.263 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+21:07:38.263 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+21:07:38.264 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+21:07:38.264 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 2606 items.
+21:07:38.264 !!! Serious stream damage detected during load, file offset: 2d
+21:07:38.268 !!! Serious stream damage detected during load, file offset: 61e
+21:07:38.272 !!! Serious stream damage detected during load, file offset: ab0
+21:07:38.273 !!! Serious stream damage detected during load, file offset: cf2
+21:07:38.286 !!! Serious stream damage detected during load, file offset: 1c04
+21:07:38.292 !!! Serious stream damage detected during load, file offset: 25b3
+21:07:38.295 !!! Serious stream damage detected during load, file offset: 29f6
+21:07:38.297 !!! Serious stream damage detected during load, file offset: 2cf3
+21:07:38.316 !!! Serious stream damage detected during load, file offset: 481b
+21:07:38.318 !!! Serious stream damage detected during load, file offset: 4a60
+21:07:38.320 !!! Serious stream damage detected during load, file offset: 4d84
+21:07:38.342 !!! Serious stream damage detected during load, file offset: 68aa
+21:07:38.344 !!! Serious stream damage detected during load, file offset: 6cce
+21:07:38.348 !!! Serious stream damage detected during load, file offset: 72aa
+21:07:38.356 !!! Serious stream damage detected during load, file offset: 7ded
+21:07:38.356 !!! Serious stream damage detected during load, file offset: 7eb8
+21:07:38.367 !!! Serious stream damage detected during load, file offset: 8cad
+21:07:38.373 !!! Serious stream damage detected during load, file offset: 9411
+21:07:38.377 !!! Serious stream damage detected during load, file offset: 97e4
+21:07:38.379 !!! Serious stream damage detected during load, file offset: 9968
+21:07:38.383 !!! Serious stream damage detected during load, file offset: 9f94
+21:07:38.386 !!! Serious stream damage detected during load, file offset: a2b0
+21:07:38.390 !!! Serious stream damage detected during load, file offset: a7d6
+21:07:38.392 !!! Serious stream damage detected during load, file offset: aa11
+21:07:38.398 !!! Serious stream damage detected during load, file offset: b25b
+21:07:38.399 !!! Serious stream damage detected during load, file offset: b3cf
+21:07:38.402 !!! Serious stream damage detected during load, file offset: b952
+21:07:38.411 !!! Serious stream damage detected during load, file offset: c6bb
+21:07:38.412 !!! Serious stream damage detected during load, file offset: c8f6
+21:07:38.416 !!! Serious stream damage detected during load, file offset: cd7a
+21:07:38.417 !!! Serious stream damage detected during load, file offset: cefe
+21:07:38.417 !!! Serious stream damage detected during load, file offset: cfca
+21:07:38.425 !!! Serious stream damage detected during load, file offset: dbb8
+21:07:38.428 !!! Serious stream damage detected during load, file offset: e029
+21:07:38.429 !!! Serious stream damage detected during load, file offset: e319
+21:07:38.441 !!! Serious stream damage detected during load, file offset: f2a2
+21:07:38.474 !!! Serious stream damage detected during load, file offset: 11dc5
+21:07:38.476 !!! Serious stream damage detected during load, file offset: 11f39
+21:07:38.482 !!! Serious stream damage detected during load, file offset: 12865
+21:07:38.491 !!! Serious stream damage detected during load, file offset: 131ef
+21:07:38.491 !!! Serious stream damage detected during load, file offset: 132b2
+21:07:38.506 !!! Serious stream damage detected during load, file offset: 147a7
+21:07:38.508 !!! Serious stream damage detected during load, file offset: 149de
+21:07:38.527 !!! Serious stream damage detected during load, file offset: 1661c
+21:07:38.541 !!! Serious stream damage detected during load, file offset: 17dff
+21:07:38.556 !!! Serious stream damage detected during load, file offset: 191d7
+21:07:38.560 !!! Serious stream damage detected during load, file offset: 19852
+21:07:38.562 !!! Serious stream damage detected during load, file offset: 19a8f
+21:07:38.563 !!! Serious stream damage detected during load, file offset: 19c14
+21:07:38.574 !!! Serious stream damage detected during load, file offset: 1afb4
+21:07:38.613 !!! Serious stream damage detected during load, file offset: 1e877
+21:07:38.640 !!! Serious stream damage detected during load, file offset: 20943
+21:07:38.666 !!! Serious stream damage detected during load, file offset: 23196
+21:07:38.671 !!! Serious stream damage detected during load, file offset: 238fd
+21:07:38.672 !!! Serious stream damage detected during load, file offset: 23a79
+21:07:38.674 !!! Serious stream damage detected during load, file offset: 23de1
+21:07:38.675 !!! Serious stream damage detected during load, file offset: 24023
+21:07:38.677 !!! Serious stream damage detected during load, file offset: 241a7
+21:07:38.680 !!! Serious stream damage detected during load, file offset: 2462e
+21:07:38.688 !!! Serious stream damage detected during load, file offset: 250e5
+21:07:38.701 !!! Serious stream damage detected during load, file offset: 26345
+21:07:38.705 !!! Serious stream damage detected during load, file offset: 269ed
+21:07:38.708 !!! Serious stream damage detected during load, file offset: 26d4e
+21:07:38.718 !!! Serious stream damage detected during load, file offset: 27eeb
+21:07:38.723 !!! Serious stream damage detected during load, file offset: 285b0
+21:07:38.728 !!! Serious stream damage detected during load, file offset: 28de3
+21:07:38.731 !!! Serious stream damage detected during load, file offset: 291af
+21:07:38.740 !!! Serious stream damage detected during load, file offset: 29d08
+21:07:38.750 !!! Serious stream damage detected during load, file offset: 2ac99
+21:07:38.758 !!! Serious stream damage detected during load, file offset: 2b951
+21:07:38.765 !!! Serious stream damage detected during load, file offset: 2c51a
+21:07:38.769 !!! Serious stream damage detected during load, file offset: 2caff
+21:07:38.775 !!! Serious stream damage detected during load, file offset: 2d77f
+21:07:38.775 !!! Serious stream damage detected during load, file offset: 2d84b
+21:07:38.776 !!! Serious stream damage detected during load, file offset: 2d9cf
+21:07:38.780 !!! Serious stream damage detected during load, file offset: 2df1e
+21:07:38.781 !!! Serious stream damage detected during load, file offset: 2e212
+21:07:38.785 !!! Serious stream damage detected during load, file offset: 2e96a
+21:07:38.801 !!! Serious stream damage detected during load, file offset: 2feb2
+21:07:38.810 !!! Serious stream damage detected during load, file offset: 30758
+21:07:38.814 !!! Serious stream damage detected during load, file offset: 30e03
+21:07:38.815 !!! Serious stream damage detected during load, file offset: 30f77
+21:07:38.823 !!! Serious stream damage detected during load, file offset: 31c8b
+21:07:38.826 !!! Serious stream damage detected during load, file offset: 31f85
+21:07:38.833 !!! Serious stream damage detected during load, file offset: 32a2e
+21:07:38.834 !!! Serious stream damage detected during load, file offset: 32bb2
+21:07:38.844 !!! Serious stream damage detected during load, file offset: 33e63
+21:07:38.847 !!! Serious stream damage detected during load, file offset: 34455
+21:07:38.848 !!! Serious stream damage detected during load, file offset: 345da
+21:07:38.851 !!! Serious stream damage detected during load, file offset: 34bcf
+21:07:38.854 !!! Serious stream damage detected during load, file offset: 350fa
+21:07:38.880 !!! Serious stream damage detected during load, file offset: 37da3
+21:07:38.883 !!! Serious stream damage detected during load, file offset: 38384
+21:07:38.889 !!! Serious stream damage detected during load, file offset: 38e89
+21:07:38.906 !!! Serious stream damage detected during load, file offset: 3a82a
+21:07:38.913 !!! Serious stream damage detected during load, file offset: 3b11f
+21:07:38.919 !!! Serious stream damage detected during load, file offset: 3b88f
+21:07:38.921 !!! Serious stream damage detected during load, file offset: 3bc4a
+21:07:38.923 !!! Serious stream damage detected during load, file offset: 3bf5f
+21:07:38.924 !!! Serious stream damage detected during load, file offset: 3c19a
+21:07:38.925 !!! Serious stream damage detected during load, file offset: 3c3e1
+21:07:38.931 !!! Serious stream damage detected during load, file offset: 3cab5
+21:07:38.933 !!! Serious stream damage detected during load, file offset: 3cdae
+21:07:38.937 !!! Serious stream damage detected during load, file offset: 3d2c4
+21:07:38.943 !!! Serious stream damage detected during load, file offset: 3dc6f
+21:07:38.946 !!! Serious stream damage detected during load, file offset: 3e2bb
+21:07:38.960 !!! Serious stream damage detected during load, file offset: 3f48f
+21:07:38.964 !!! Serious stream damage detected during load, file offset: 3fca7
+21:07:38.977 !!! Serious stream damage detected during load, file offset: 40e88
+21:07:38.992 !!! Serious stream damage detected during load, file offset: 4244f
+21:07:39.01 !!! Serious stream damage detected during load, file offset: 42fc5
+21:07:39.07 !!! Serious stream damage detected during load, file offset: 438de
+21:07:39.10 !!! Serious stream damage detected during load, file offset: 43bd6
+21:07:39.16 !!! Serious stream damage detected during load, file offset: 441fb
+21:07:39.65 !!! Serious stream damage detected during load, file offset: 482ca
+21:07:39.81 !!! Serious stream damage detected during load, file offset: 49e30
+21:07:39.84 !!! Serious stream damage detected during load, file offset: 4a3a5
+21:07:39.85 !!! Serious stream damage detected during load, file offset: 4a529
+21:07:39.86 !!! Serious stream damage detected during load, file offset: 4a766
+21:07:39.87 !!! Serious stream damage detected during load, file offset: 4a8ea
+21:07:39.100 !!! Serious stream damage detected during load, file offset: 4bc9d
+21:07:39.100 !!! Serious stream damage detected during load, file offset: 4bd69
+21:07:39.104 !!! Serious stream damage detected during load, file offset: 4c371
+21:07:39.104 !!! Serious stream damage detected during load, file offset: 4c43b
+21:07:39.113 !!! Serious stream damage detected during load, file offset: 4cb45
+21:07:39.115 !!! Serious stream damage detected during load, file offset: 4ce2d
+21:07:39.126 !!! Serious stream damage detected during load, file offset: 4ddf2
+21:07:39.130 !!! Serious stream damage detected during load, file offset: 4e408
+21:07:39.150 !!! Serious stream damage detected during load, file offset: 4fc84
+21:07:39.160 !!! Serious stream damage detected during load, file offset: 509d3
+21:07:39.164 !!! Serious stream damage detected during load, file offset: 510b1
+21:07:39.164 !!! Serious stream damage detected during load, file offset: 5117d
+21:07:39.164 !!! Serious stream damage detected during load, file offset: 51244
+21:07:39.165 !!! Serious stream damage detected during load, file offset: 513ca
+21:07:39.167 !!! Serious stream damage detected during load, file offset: 51608
+21:07:39.169 !!! Serious stream damage detected during load, file offset: 51900
+21:07:39.172 !!! Serious stream damage detected during load, file offset: 51c1e
+21:07:39.185 !!! Serious stream damage detected during load, file offset: 532ab
+21:07:39.187 !!! Serious stream damage detected during load, file offset: 53671
+21:07:39.195 !!! Serious stream damage detected during load, file offset: 54313
+21:07:39.198 !!! Serious stream damage detected during load, file offset: 549c0
+21:07:39.206 !!! Serious stream damage detected during load, file offset: 555c4
+21:07:39.214 !!! Serious stream damage detected during load, file offset: 56256
+21:07:39.222 !!! Serious stream damage detected during load, file offset: 56c3e
+21:07:39.227 !!! Serious stream damage detected during load, file offset: 5756e
+21:07:39.229 !!! Serious stream damage detected during load, file offset: 57866
+21:07:39.239 !!! Serious stream damage detected during load, file offset: 58204
+21:07:39.251 !!! Serious stream damage detected during load, file offset: 59233
+21:07:39.254 !!! Serious stream damage detected during load, file offset: 59697
+21:07:39.275 !!! Serious stream damage detected during load, file offset: 5ab79
+21:07:39.284 !!! Serious stream damage detected during load, file offset: 5b3cb
+21:07:39.291 !!! Serious stream damage detected during load, file offset: 5bcc0
+21:07:39.295 !!! Serious stream damage detected during load, file offset: 5c2e0
+21:07:39.321 !!! Serious stream damage detected during load, file offset: 5e92f
+21:07:39.327 !!! Serious stream damage detected during load, file offset: 5f083
+21:07:39.337 !!! Serious stream damage detected during load, file offset: 5f997
+21:07:39.364 !!! Serious stream damage detected during load, file offset: 61873
+21:07:39.366 !!! Serious stream damage detected during load, file offset: 61ab2
+21:07:39.371 !!! Serious stream damage detected during load, file offset: 62158
+21:07:39.395 !!! Serious stream damage detected during load, file offset: 63c82
+21:07:39.396 !!! Serious stream damage detected during load, file offset: 63ec7
+21:07:39.404 !!! Serious stream damage detected during load, file offset: 64a82
+21:07:39.405 !!! Serious stream damage detected during load, file offset: 64b44
+21:07:39.406 !!! Serious stream damage detected during load, file offset: 64d8f
+21:07:39.410 !!! Serious stream damage detected during load, file offset: 65386
+21:07:39.425 !!! Serious stream damage detected during load, file offset: 6675e
+21:07:39.431 !!! Serious stream damage detected during load, file offset: 66f79
+21:07:39.433 !!! Serious stream damage detected during load, file offset: 6738c
+21:07:39.436 !!! Serious stream damage detected during load, file offset: 67826
+21:07:39.452 !!! Serious stream damage detected during load, file offset: 688ed
+21:07:39.461 !!! Serious stream damage detected during load, file offset: 6957c
+21:07:39.467 !!! Serious stream damage detected during load, file offset: 69ce0
+21:07:39.480 !!! Serious stream damage detected during load, file offset: 6a8b6
+21:07:39.508 !!! Serious stream damage detected during load, file offset: 6cd67
+21:07:39.512 !!! Serious stream damage detected during load, file offset: 6d118
+21:07:39.513 !!! Serious stream damage detected during load, file offset: 6d334
+21:07:39.539 !!! Serious stream damage detected during load, file offset: 6f05a
+21:07:39.558 !!! Serious stream damage detected during load, file offset: 704ac
+21:07:39.562 !!! Serious stream damage detected during load, file offset: 70a66
+21:07:39.568 !!! Serious stream damage detected during load, file offset: 7108f
+21:07:39.592 !!! Serious stream damage detected during load, file offset: 72f5e
+21:07:39.596 !!! Serious stream damage detected during load, file offset: 7348f
+21:07:39.597 !!! Serious stream damage detected during load, file offset: 73614
+21:07:39.599 !!! Serious stream damage detected during load, file offset: 73852
+21:07:39.610 !!! Serious stream damage detected during load, file offset: 746b4
+21:07:39.617 !!! Serious stream damage detected during load, file offset: 75282
+21:07:39.618 !!! Serious stream damage detected during load, file offset: 7557c
+21:07:39.621 !!! Serious stream damage detected during load, file offset: 75935
+21:07:39.623 !!! Serious stream damage detected during load, file offset: 75ceb
+21:07:39.627 !!! Serious stream damage detected during load, file offset: 7617c
+21:07:39.643 !!! Serious stream damage detected during load, file offset: 7740b
+21:07:39.645 !!! Serious stream damage detected during load, file offset: 77679
+21:07:39.649 !!! Serious stream damage detected during load, file offset: 77bd2
+21:07:39.649 !!! Serious stream damage detected during load, file offset: 77d56
+21:07:39.651 !!! Serious stream damage detected during load, file offset: 77f96
+21:07:39.656 !!! Serious stream damage detected during load, file offset: 786f8
+21:07:39.683 !!! Serious stream damage detected during load, file offset: 7a774
+21:07:39.690 !!! Serious stream damage detected during load, file offset: 7aed5
+21:07:39.714 !!! Serious stream damage detected during load, file offset: 7cd9f
+21:07:39.718 !!! Serious stream damage detected during load, file offset: 7d2b8
+21:07:39.720 !!! Serious stream damage detected during load, file offset: 7d731
+21:07:39.725 !!! Serious stream damage detected during load, file offset: 7de0c
+21:07:39.739 !!! Serious stream damage detected during load, file offset: 7f2f7
+21:07:39.739 !!! Serious stream damage detected during load, file offset: 7f3c2
+21:07:39.744 !!! Serious stream damage detected during load, file offset: 7fa9c
+21:07:39.747 !!! Serious stream damage detected during load, file offset: 7fc46
+21:07:39.749 !!! Serious stream damage detected during load, file offset: 7fed5
+21:07:39.753 !!! Serious stream damage detected during load, file offset: 801ce
+21:07:39.757 !!! Serious stream damage detected during load, file offset: 8067f
+21:07:39.758 !!! Serious stream damage detected during load, file offset: 80805
+21:07:39.761 !!! Serious stream damage detected during load, file offset: 80a7b
+21:07:39.762 !!! Serious stream damage detected during load, file offset: 80c01
+21:07:39.764 !!! Serious stream damage detected during load, file offset: 80fb3
+21:07:39.771 !!! Serious stream damage detected during load, file offset: 81970
+21:07:39.781   2392 items loaded. (214 failed)
+21:07:39.782 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+21:07:39.783 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+21:07:39.783 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+21:07:39.784 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 921 items.
+21:07:39.793 !!! Serious stream damage detected during load, file offset: 7cc
+21:07:39.806 !!! Serious stream damage detected during load, file offset: 1849
+21:07:39.807 !!! Serious stream damage detected during load, file offset: 1914
+21:07:39.808 !!! Serious stream damage detected during load, file offset: 1a9d
+21:07:39.811 !!! Serious stream damage detected during load, file offset: 1f0a
+21:07:39.813 !!! Serious stream damage detected during load, file offset: 2145
+21:07:39.813 !!! Serious stream damage detected during load, file offset: 220e
+21:07:39.818 !!! Serious stream damage detected during load, file offset: 2680
+21:07:39.818 !!! Serious stream damage detected during load, file offset: 2743
+21:07:39.825 !!! Serious stream damage detected during load, file offset: 3033
+21:07:39.827 !!! Serious stream damage detected during load, file offset: 3292
+21:07:39.830 !!! Serious stream damage detected during load, file offset: 3716
+21:07:39.831 !!! Serious stream damage detected during load, file offset: 37dd
+21:07:39.838 !!! Serious stream damage detected during load, file offset: 4217
+21:07:39.840 !!! Serious stream damage detected during load, file offset: 4398
+21:07:39.842 !!! Serious stream damage detected during load, file offset: 4714
+21:07:39.843 !!! Serious stream damage detected during load, file offset: 4972
+21:07:39.847 !!! Serious stream damage detected during load, file offset: 4c77
+21:07:39.847 !!! Serious stream damage detected during load, file offset: 4d42
+21:07:39.850 !!! Serious stream damage detected during load, file offset: 5124
+21:07:39.857 !!! Serious stream damage detected during load, file offset: 5b62
+21:07:39.869 !!! Serious stream damage detected during load, file offset: 6a08
+21:07:39.872 !!! Serious stream damage detected during load, file offset: 6d3a
+21:07:39.876 !!! Serious stream damage detected during load, file offset: 71df
+21:07:39.876 !!! Serious stream damage detected during load, file offset: 72a9
+21:07:39.877 !!! Serious stream damage detected during load, file offset: 7432
+21:07:39.878 !!! Serious stream damage detected during load, file offset: 75ae
+21:07:39.885 !!! Serious stream damage detected during load, file offset: 7f03
+21:07:39.893 !!! Serious stream damage detected during load, file offset: 8ab6
+21:07:39.906 !!! Serious stream damage detected during load, file offset: 9ab8
+21:07:39.908 !!! Serious stream damage detected during load, file offset: 9c34
+21:07:39.908 !!! Serious stream damage detected during load, file offset: 9cee
+21:07:39.914 !!! Serious stream damage detected during load, file offset: a30e
+21:07:39.929 !!! Serious stream damage detected during load, file offset: ba96
+21:07:39.929 !!! Serious stream damage detected during load, file offset: bb60
+21:07:39.935 !!! Serious stream damage detected during load, file offset: c45a
+21:07:39.937 !!! Serious stream damage detected during load, file offset: c698
+21:07:39.940 !!! Serious stream damage detected during load, file offset: ccc1
+21:07:39.945 !!! Serious stream damage detected during load, file offset: d3d9
+21:07:39.946 !!! Serious stream damage detected during load, file offset: d56b
+21:07:39.946 !!! Serious stream damage detected during load, file offset: d628
+21:07:39.950 !!! Serious stream damage detected during load, file offset: db43
+21:07:39.951 !!! Serious stream damage detected during load, file offset: dc0f
+21:07:39.952 !!! Serious stream damage detected during load, file offset: df10
+21:07:39.953 !!! Serious stream damage detected during load, file offset: e0b4
+21:07:39.953 !!! Serious stream damage detected during load, file offset: e17e
+21:07:39.955 !!! Serious stream damage detected during load, file offset: e53e
+21:07:39.956 !!! Serious stream damage detected during load, file offset: e83b
+21:07:39.967 !!! Serious stream damage detected during load, file offset: f745
+21:07:39.969 !!! Serious stream damage detected during load, file offset: f9f5
+21:07:39.979 !!! Serious stream damage detected during load, file offset: 106eb
+21:07:39.984 !!! Serious stream damage detected during load, file offset: 10cc5
+21:07:39.987 !!! Serious stream damage detected during load, file offset: 1107c
+21:07:39.989 !!! Serious stream damage detected during load, file offset: 11395
+21:07:39.993 !!! Serious stream damage detected during load, file offset: 11750
+21:07:39.996 !!! Serious stream damage detected during load, file offset: 11a45
+21:07:40.03 !!! Serious stream damage detected during load, file offset: 1225b
+21:07:40.06 !!! Serious stream damage detected during load, file offset: 126b7
+21:07:40.10 !!! Serious stream damage detected during load, file offset: 12d06
+21:07:40.14 !!! Serious stream damage detected during load, file offset: 13397
+21:07:40.22 !!! Serious stream damage detected during load, file offset: 13c61
+21:07:40.24 !!! Serious stream damage detected during load, file offset: 13e9f
+21:07:40.25 !!! Serious stream damage detected during load, file offset: 140b0
+21:07:40.25 !!! Serious stream damage detected during load, file offset: 1417a
+21:07:40.28 !!! Serious stream damage detected during load, file offset: 1453a
+21:07:40.39 !!! Serious stream damage detected during load, file offset: 15831
+21:07:40.49 !!! Serious stream damage detected during load, file offset: 16719
+21:07:40.50 !!! Serious stream damage detected during load, file offset: 1689f
+21:07:40.56 !!! Serious stream damage detected during load, file offset: 171a4
+21:07:40.65 !!! Serious stream damage detected during load, file offset: 1808d
+21:07:40.66 !!! Serious stream damage detected during load, file offset: 182cc
+21:07:40.83 !!! Serious stream damage detected during load, file offset: 194c2
+21:07:40.86 !!! Serious stream damage detected during load, file offset: 19811
+21:07:40.90 !!! Serious stream damage detected during load, file offset: 19d16
+21:07:40.104 !!! Serious stream damage detected during load, file offset: 1adb3
+21:07:40.105 !!! Serious stream damage detected during load, file offset: 1af37
+21:07:40.108 !!! Serious stream damage detected during load, file offset: 1b499
+21:07:40.118 !!! Serious stream damage detected during load, file offset: 1c2e0
+21:07:40.119 !!! Serious stream damage detected during load, file offset: 1c39d
+21:07:40.122 !!! Serious stream damage detected during load, file offset: 1c750
+21:07:40.122 !!! Serious stream damage detected during load, file offset: 1c8c9
+21:07:40.138 !!! Serious stream damage detected during load, file offset: 1daa1
+21:07:40.146 !!! Serious stream damage detected during load, file offset: 1e688
+21:07:40.153 !!! Serious stream damage detected during load, file offset: 1ee06
+21:07:40.163 !!! Serious stream damage detected during load, file offset: 1fea3
+21:07:40.165 !!! Serious stream damage detected during load, file offset: 20024
+21:07:40.172 !!! Serious stream damage detected during load, file offset: 20a9a
+21:07:40.181 !!! Serious stream damage detected during load, file offset: 2169f
+21:07:40.183 !!! Serious stream damage detected during load, file offset: 21ae2
+21:07:40.186 !!! Serious stream damage detected during load, file offset: 21e94
+21:07:40.186 !!! Serious stream damage detected during load, file offset: 21f5e
+21:07:40.186 !!! Serious stream damage detected during load, file offset: 2202a
+21:07:40.191 !!! Serious stream damage detected during load, file offset: 225a8
+21:07:40.193 !!! Serious stream damage detected during load, file offset: 2295b
+21:07:40.194 !!! Serious stream damage detected during load, file offset: 22c58
+21:07:40.194 !!! Serious stream damage detected during load, file offset: 22d12
+21:07:40.197 !!! Serious stream damage detected during load, file offset: 23145
+21:07:40.199 !!! Serious stream damage detected during load, file offset: 233ad
+21:07:40.206 !!! Serious stream damage detected during load, file offset: 23b52
+21:07:40.211 !!! Serious stream damage detected during load, file offset: 24206
+21:07:40.212 !!! Serious stream damage detected during load, file offset: 24444
+21:07:40.221 !!! Serious stream damage detected during load, file offset: 24f8e
+21:07:40.222 !!! Serious stream damage detected during load, file offset: 251ce
+21:07:40.224 !!! Serious stream damage detected during load, file offset: 255d7
+21:07:40.227 !!! Serious stream damage detected during load, file offset: 25811
+21:07:40.228 !!! Serious stream damage detected during load, file offset: 259b2
+21:07:40.236 !!! Serious stream damage detected during load, file offset: 2656f
+21:07:40.236 !!! Serious stream damage detected during load, file offset: 26629
+21:07:40.239 !!! Serious stream damage detected during load, file offset: 269dd
+21:07:40.243 !!! Serious stream damage detected during load, file offset: 26f08
+21:07:40.243 !!! Serious stream damage detected during load, file offset: 26fc5
+21:07:40.247 !!! Serious stream damage detected during load, file offset: 2749e
+21:07:40.247 !!! Serious stream damage detected during load, file offset: 2756a
+21:07:40.249 !!! Serious stream damage detected during load, file offset: 27919
+21:07:40.258 !!! Serious stream damage detected during load, file offset: 28166
+21:07:40.262 !!! Serious stream damage detected during load, file offset: 28641
+21:07:40.263 !!! Serious stream damage detected during load, file offset: 287d5
+21:07:40.268 !!! Serious stream damage detected during load, file offset: 28f60
+21:07:40.276 !!! Serious stream damage detected during load, file offset: 29c38
+21:07:40.281 !!! Serious stream damage detected during load, file offset: 2a21b
+21:07:40.283 !!! Serious stream damage detected during load, file offset: 2a55b
+21:07:40.290 !!! Serious stream damage detected during load, file offset: 2acda
+21:07:40.291 !!! Serious stream damage detected during load, file offset: 2ae64
+21:07:40.291 !!! Serious stream damage detected during load, file offset: 2afe5
+21:07:40.292 !!! Serious stream damage detected during load, file offset: 2b0a9
+21:07:40.297 !!! Serious stream damage detected during load, file offset: 2bb06
+21:07:40.300 !!! Serious stream damage detected during load, file offset: 2be2f
+21:07:40.300 !!! Serious stream damage detected during load, file offset: 2bef9
+21:07:40.312 !!! Serious stream damage detected during load, file offset: 2cda7
+21:07:40.313 !!! Serious stream damage detected during load, file offset: 2cfd5
+21:07:40.313 !!! Serious stream damage detected during load, file offset: 2d0a1
+21:07:40.315 !!! Serious stream damage detected during load, file offset: 2d396
+21:07:40.318 !!! Serious stream damage detected during load, file offset: 2d6c3
+21:07:40.319 !!! Serious stream damage detected during load, file offset: 2d77d
+21:07:40.330   787 items loaded. (134 failed)
+21:07:40.333 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+21:07:40.334 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+21:07:40.334 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+21:07:40.335 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 330 items.
+21:07:40.342 !!! Serious stream damage detected during load, file offset: 9b9
+21:07:40.349 !!! Serious stream damage detected during load, file offset: 12df
+21:07:40.357 !!! Serious stream damage detected during load, file offset: 1dca
+21:07:40.360 !!! Serious stream damage detected during load, file offset: 20c9
+21:07:40.362 !!! Serious stream damage detected during load, file offset: 23b5
+21:07:40.374 !!! Serious stream damage detected during load, file offset: 336f
+21:07:40.387 !!! Serious stream damage detected during load, file offset: 4744
+21:07:40.388 !!! Serious stream damage detected during load, file offset: 4810
+21:07:40.393 !!! Serious stream damage detected during load, file offset: 4f25
+21:07:40.413 !!! Serious stream damage detected during load, file offset: 6434
+21:07:40.413 !!! Serious stream damage detected during load, file offset: 64fb
+21:07:40.417 !!! Serious stream damage detected during load, file offset: 69b9
+21:07:40.419 !!! Serious stream damage detected during load, file offset: 6bf8
+21:07:40.434 !!! Serious stream damage detected during load, file offset: 7e1a
+21:07:40.453 !!! Serious stream damage detected during load, file offset: 93d3
+21:07:40.468 !!! Serious stream damage detected during load, file offset: 9db8
+21:07:40.470 !!! Serious stream damage detected during load, file offset: 9ff8
+21:07:40.496 !!! Serious stream damage detected during load, file offset: b744
+21:07:40.511 !!! Serious stream damage detected during load, file offset: c49e
+21:07:40.578   311 items loaded. (19 failed)
+21:07:40.580 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+21:07:40.580 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+21:07:40.581 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+21:07:40.582 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+21:07:40.582   0 items loaded. (0 failed)
+21:07:40.583 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+21:07:40.584 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+21:07:40.584 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+21:07:40.585 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 358 items.
+21:07:40.586 !!! Serious stream damage detected during load, file offset: 1ae
+21:07:40.588 !!! Serious stream damage detected during load, file offset: 4a3
+21:07:40.591 !!! Serious stream damage detected during load, file offset: 877
+21:07:40.593 !!! Serious stream damage detected during load, file offset: b70
+21:07:40.602 !!! Serious stream damage detected during load, file offset: 158e
+21:07:40.603 !!! Serious stream damage detected during load, file offset: 172a
+21:07:40.604 !!! Serious stream damage detected during load, file offset: 1962
+21:07:40.610 !!! Serious stream damage detected during load, file offset: 2020
+21:07:40.611 !!! Serious stream damage detected during load, file offset: 21a5
+21:07:40.614 !!! Serious stream damage detected during load, file offset: 26d9
+21:07:40.616 !!! Serious stream damage detected during load, file offset: 285e
+21:07:40.618 !!! Serious stream damage detected during load, file offset: 2b77
+21:07:40.641 !!! Serious stream damage detected during load, file offset: 4c61
+21:07:40.647 !!! Serious stream damage detected during load, file offset: 5047
+21:07:40.652 !!! Serious stream damage detected during load, file offset: 5755
+21:07:40.653 !!! Serious stream damage detected during load, file offset: 581f
+21:07:40.661 !!! Serious stream damage detected during load, file offset: 621a
+21:07:40.664 !!! Serious stream damage detected during load, file offset: 6781
+21:07:40.670 !!! Serious stream damage detected during load, file offset: 6cab
+21:07:40.672 !!! Serious stream damage detected during load, file offset: 6e31
+21:07:40.673 !!! Serious stream damage detected during load, file offset: 6efb
+21:07:40.687 !!! Serious stream damage detected during load, file offset: 8052
+21:07:40.690 !!! Serious stream damage detected during load, file offset: 83bb
+21:07:40.691 !!! Serious stream damage detected during load, file offset: 85fa
+21:07:40.697 !!! Serious stream damage detected during load, file offset: 8de0
+21:07:40.697 !!! Serious stream damage detected during load, file offset: 8ea7
+21:07:40.708 !!! Serious stream damage detected during load, file offset: 9f0d
+21:07:40.711 !!! Serious stream damage detected during load, file offset: a2e7
+21:07:40.724 !!! Serious stream damage detected during load, file offset: b701
+21:07:40.728 !!! Serious stream damage detected during load, file offset: be55
+21:07:40.731 !!! Serious stream damage detected during load, file offset: c14e
+21:07:40.734 !!! Serious stream damage detected during load, file offset: c6b9
+21:07:40.736 !!! Serious stream damage detected during load, file offset: c83a
+21:07:40.742 !!! Serious stream damage detected during load, file offset: cf3f
+21:07:40.757 !!! Serious stream damage detected during load, file offset: e0d3
+21:07:40.763 !!! Serious stream damage detected during load, file offset: e7a5
+21:07:40.765 !!! Serious stream damage detected during load, file offset: ea9f
+21:07:40.767 !!! Serious stream damage detected during load, file offset: ed9b
+21:07:40.769 !!! Serious stream damage detected during load, file offset: ef1e
+21:07:40.770 !!! Serious stream damage detected during load, file offset: efe9
+21:07:40.772 !!! Serious stream damage detected during load, file offset: f229
+21:07:40.781 !!! Serious stream damage detected during load, file offset: fbbf
+21:07:40.788 !!! Serious stream damage detected during load, file offset: 10127
+21:07:40.789 !!! Serious stream damage detected during load, file offset: 101f1
+21:07:40.792 !!! Serious stream damage detected during load, file offset: 105a3
+21:07:40.801 !!! Serious stream damage detected during load, file offset: 10ebc
+21:07:40.817   312 items loaded. (46 failed)
+21:07:40.818 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+21:07:40.819 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+21:07:40.819 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+21:07:40.820 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 23 items.
+21:07:40.822 !!! Serious stream damage detected during load, file offset: 297
+21:07:40.827 !!! Serious stream damage detected during load, file offset: 97b
+21:07:40.832 !!! Serious stream damage detected during load, file offset: 10f6
+21:07:40.832 !!! Serious stream damage detected during load, file offset: 11c1
+21:07:40.833   19 items loaded. (4 failed)
+21:07:40.834 [CE][Storage] ver:26 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin"
+21:07:40.834 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.001"
+21:07:40.834 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.002"
+21:07:40.835 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+21:07:40.835   0 items loaded. (0 failed)
+21:07:40.836 [CE][Storage] ver:25 stamp:73, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+21:07:40.836 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+21:07:40.836 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+21:07:40.837 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 31 items.
+21:07:40.837 !!! Serious stream damage detected during load, file offset: 2e
+21:07:40.838 !!! Serious stream damage detected during load, file offset: 8ee
+21:07:40.838 !!! Serious stream damage detected during load, file offset: 11a3
+21:07:40.839 !!! Serious stream damage detected during load, file offset: 18ad
+21:07:40.840 !!! Serious stream damage detected during load, file offset: 1fca
+21:07:40.840 !!! Serious stream damage detected during load, file offset: 243a
+21:07:40.864 !!! Serious stream damage detected during load, file offset: 4383
+21:07:40.864 !!! Serious stream damage detected during load, file offset: 4c0b
+21:07:40.865 !!! Serious stream damage detected during load, file offset: 5733
+21:07:40.865 !!! Serious stream damage detected during load, file offset: 5cd1
+21:07:40.866 !!! Serious stream damage detected during load, file offset: 62d2
+21:07:40.866 !!! Serious stream damage detected during load, file offset: 6935
+21:07:40.887   19 items loaded. (12 failed)
+21:07:40.911 [CE][Hive] :: Storage load took:6.42 seconds, recovery stamp:73
+21:07:40.912   entity: 9279, building: 0
+21:07:40.912   no lifetime: 11
+21:07:40.912   skipped: 852
+21:07:40.913   pathgraph's: 339
+21:07:40.913 [CE][Hive] :: Initializing ... 
+21:07:40.943 [CE][InitializeMap] :: initialized: 0
+21:07:40.943 [CE][Hive] :: Initializing spawners ... 
+21:07:40.943 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:12517, Total in Map: 9644 at 0 (sec)
+21:07:40.944   tests:0, repeats:0 fails:0, overtime:0
+21:07:42.377 !!! [CE][DE] DynamicEvent "VehicleHelicopters" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+21:07:42.378 !!!!!! [CE][DE] DynamicEvent "VehicleHelicopters" setup is invalid, event will be disabled.
+21:07:42.378 !!! [CE][DE] DynamicEvent "VehicleBoats" has <limit> 'child' or 'mixed', but all <child max> are set to 0.
+21:07:42.379 !!!!!! [CE][DE] DynamicEvent "VehicleBoats" setup is invalid, event will be disabled.
+21:07:42.379 [CE][DynEvent] :: 24 types
+21:07:42.379 [00] AnimalDil
+21:07:42.380   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.380 [01] Loot
+21:07:42.380   Primary Spawner: "Loot", active: yes, repeat: 2
+21:07:42.380 [02] StaticMedDrop
+21:07:42.380   Primary Spawner: "Static", active: yes, repeat: 1
+21:07:42.380 [03] StaticLifeboat
+21:07:42.380   Primary Spawner: "Static", active: yes, repeat: 1
+21:07:42.380 [04] ItemWoodenPlanks
+21:07:42.380   Primary Spawner: "Item", active: yes, repeat: 1
+21:07:42.380 [05] TrajectoryStones
+21:07:42.380   Primary Spawner: "Trajectory", active: yes, repeat: 1
+21:07:42.380 [06] InfectedSanta
+21:07:42.380   Primary Spawner: "Infected", active: yes, repeat: 1
+21:07:42.380 [07] InfectedArmy
+21:07:42.380   Primary Spawner: "Infected", active: yes, repeat: 1
+21:07:42.380 [08] InfectedIndustrial
+21:07:42.380   Primary Spawner: "Infected", active: yes, repeat: 1
+21:07:42.380 [09] InfectedCivil
+21:07:42.381   Primary Spawner: "Infected", active: yes, repeat: 1
+21:07:42.381 [10] InfectedMedic
+21:07:42.381   Primary Spawner: "Infected", active: yes, repeat: 1
+21:07:42.381 [11] AnimalGoat
+21:07:42.381   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.381 [12] AnimalSheep
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [13] AnimalRoeDeer
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [14] AnimalDeer
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [15] AnimalWildBoar
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [16] AnimalWolf
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [17] AnimalBrownBear
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [18] AnimalPolarBear
+21:07:42.383   Primary Spawner: "Animal", active: yes, repeat: 1
+21:07:42.383 [19] VehicleCivilianCars
+21:07:42.383   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:07:42.384 [20] VehicleTrucks
+21:07:42.384   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:07:42.385 [21] VehicleMilitary
+21:07:42.385   Primary Spawner: "Vehicle", active: yes, repeat: 1
+21:07:42.385 [22] VehicleHelicopters
+21:07:42.386   Primary Spawner: "Vehicle", active: no, repeat: 1
+21:07:42.387 [23] VehicleBoats
+21:07:42.387   Primary Spawner: "Vehicle", active: no, repeat: 1
+21:07:42.387 [CE][Hive] :: Initializing of spawners done.
+21:07:42.393 [CE][Hive] :: Init sequence finished.
+21:07:42.393 Player connect enabled
+21:07:42.975 [IdleMode] Entering IN - save processed
+21:08:21.10  --- Termination successfully completed --- 

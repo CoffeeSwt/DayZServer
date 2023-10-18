@@ -1,0 +1,7 @@
+large: dbo_raptor
+smalll :dbo_raptorB
+Spikey Raptor (ish) : dbo_idrex
+Trex  : dbo_trex
+dbo_tricero  its a triceractops ( early alpha sounds  like raptor )
+
+adjust the above to suite i dont have an events here you need one utilise the bear  one or ask in discord cheers

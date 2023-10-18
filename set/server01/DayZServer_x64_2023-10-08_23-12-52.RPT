@@ -1,0 +1,277 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ-Namalsk.cfg -port=2303 -profiles=D:\SteamLibrary\steamapps\common\DayZServer\set\server01 -mod=@CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;
+=====================================================================
+Exe timestamp: 2023/09/30 07:51:18
+Current time:  2023/10/08 23:12:56
+Version 1.22.156718
+=====================================================================
+
+23:12:56.253 [Inputs] Loading inputs default "bin/constants.xml"
+23:12:56.259 [Inputs] Loading inputs default "bin/specific.xml"
+23:12:56.261 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+23:12:56.261 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+23:12:56.261 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+23:12:56.261 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+23:12:56.261 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+23:12:56.264 !!! [Inputs] Cannot load inputs default "", file does not exist
+23:12:56.264 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+23:12:56.264 [Inputs] Loading inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+23:12:56.270 [Inputs] Exporting inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+23:13:08.418 [CE][Hive] :: Initializing OFFLINE
+23:13:08.418 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\
+23:13:08.419 [CE][Hive] :: Loading core data ... 
+23:13:08.422 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+23:13:08.434 [CE][offlineDB] :: Conversion of characters started.
+23:13:08.441 [CE][offlineDB] :: Processing 0 players.
+23:13:08.442 [CE][offlineDB] :: Conversion of characters successfully completed.
+23:13:14.850 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+23:13:14.852 [CE][TypeSetup] :: 586 classes setuped...
+23:13:16.531 [CE][RegisterBind] :: 0 classes binded...
+23:13:16.531 [CE][RegisterConfig] :: 11755 config classes registered, 0 sub-counters...
+23:13:16.531 [CE][Hive] :: Loading map data ... 
+23:13:16.611 [CE][LoadPrototype] :: loaded 459 prototypes
+23:13:16.611   841 containers, 13222 points
+23:13:16.611   30 dispatches, 111 proxies
+23:13:16.611 !!! [CE][LoadPrototype] 9 groups have no points...
+23:13:16.611 !!! [CE][LoadPrototype] 1 groups have wrong points...
+23:13:16.611 !!! [CE][LoadPrototype] 126 groups were defined more than once and skipped...
+23:13:16.611 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+23:13:16.620 [CE][LoadPrototype] :: loaded 0 prototypes
+23:13:16.621   38 containers, 66 points
+23:13:16.621   0 dispatches, 0 proxies
+23:13:16.621 [CE][LoadPrototype] :: last group name: StoneLoc38...
+23:13:16.672 [CE][LoadMap] "Group" :: loaded 1880 groups, groups failed: 0, largest group range: 36.4
+23:13:16.674 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+23:13:16.685 [CE][Links] found 720 total links between groups, of 1880
+23:13:16.685 [CE][LoadClusters] "Cluster" :: Loading files...
+23:13:16.695 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+23:13:16.696 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin"
+23:13:16.696 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.001"
+23:13:16.697 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.002"
+23:13:16.700 [CE][offlineDB] :: Loaded 21 dynamic events 173 total types.
+23:13:16.749 !!! [CE][offlineDB] :: Type 'Mag_DE_9rnd' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'Telnyashka' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'ManSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+23:13:16.750 !!! [CE][offlineDB] :: Type 'SportGlasses' will be ignored. (Type does not exist. (Typo?))
+23:13:16.751 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+23:13:16.751 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Black' will be ignored. (Type does not exist. (Typo?))
+23:13:16.751 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Blue' will be ignored. (Type does not exist. (Typo?))
+23:13:16.751 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Grey' will be ignored. (Type does not exist. (Typo?))
+23:13:16.751 !!! [CE] :: Unknown usage: 'Lunapark'.
+23:13:16.751 !!! [CE] :: Unknown usage: 'Lunapark'.
+23:13:16.751 !!! [CE] :: Unknown usage: 'Lunapark'.
+23:13:16.760 [CE][DE][SPAWNS] :: Total positions: 677
+23:13:16.760 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+23:13:16.760 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin"
+23:13:16.760 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.001"
+23:13:16.761 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.002"
+23:13:16.761 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+23:13:16.761 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+23:13:16.761 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+23:13:16.762 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+23:13:16.764 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+23:13:16.764 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+23:13:16.764 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+23:13:16.764 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+23:13:16.764 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+23:13:16.765 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+23:13:16.766 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+23:13:16.766 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+23:13:16.767 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+23:13:16.767 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+23:13:16.767 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+23:13:16.767 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+23:13:16.768 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+23:13:16.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+23:13:16.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+23:13:16.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin"
+23:13:16.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.001"
+23:13:16.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.002"
+23:13:16.770 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+23:13:16.770 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+23:13:16.770 [CE][Storage] ver:0 stamp:0, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+23:13:16.770 [CE][Hive] :: Empty storage folder, reinitializing ... 
+23:13:16.774 [CE][Hive] :: Initializing ... 
+23:13:16.776 [CE][InitializeMap] :: initialized: 0
+23:13:16.776 [CE][Hive] :: Initializing spawners ... 
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Msp_BaseballCap_Beige"
+23:13:16.793 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Msp_BaseballCap_Beige"
+23:13:17.32 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_apsi"
+23:13:17.32 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "dzn_apsi"
+23:13:17.35 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "dzn_apsi"
+23:13:17.35 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_apsi"
+23:13:17.157 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Msp_BassAxe"
+23:13:17.174 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "Msp_Egg_Yellow"
+23:13:17.218 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "AmmoBox_9x39AP_20Rnd"
+23:13:17.219 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "AmmoBox_9x39AP_20Rnd"
+23:13:17.226 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Mag_VAL_20Rnd"
+23:13:17.248 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "HuntingKnife"
+23:13:17.319 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "HuntingBag"
+23:13:17.358 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Msp_BaseballCap_Blue"
+23:13:17.388 !!! [CE][Point] Removing 5021.735352, 5421.304199 from land_wrecked_ural_onside
+23:13:17.412 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "WorkingGloves_Beige"
+23:13:17.459 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "Msp_MedicBag_Green"
+23:13:17.467 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "ParamedicJacket_Crimson"
+23:13:17.468 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "ParamedicJacket_Crimson"
+23:13:17.671 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Morphine"
+23:13:17.674 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "SurgicalGloves_Green"
+23:13:17.674 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "SurgicalGloves_Green"
+23:13:17.812 !!! [CE][Point] Removing 5032.167480, 8197.083984 from land_wrecked_ural_onside
+23:13:17.854 !!! [CE][Point] Removing 8977.759766, 1.149737 from Land_Boat_Small1
+23:13:17.941 !!! [CE][Point] Removing 3651.938965, 7313.951172 from Land_Shed_W1
+23:13:17.947 !!! [CE][Point] Removing 5047.218750, 5350.023438 from land_wrecked_ural_onside
+23:13:17.994 !!! [CE][Point] Removing 5023.143555, 5424.515137 from land_wrecked_ural_onside
+23:13:17.998 !!! [CE][Point] Removing 5050.001953, 5344.979492 from land_wrecked_ural_onside
+23:13:17.998 !!! [CE][Point] Removing 5024.550293, 5416.278320 from land_wrecked_ural_onside
+23:13:18.13 !!! [CE][Point] Removing 5048.647461, 5353.225098 from land_wrecked_ural_onside
+23:13:18.24 !!! [CE][Point] Removing 5024.350098, 5420.550293 from land_wrecked_ural_onside
+23:13:18.85 !!! [CE][Point] Removing 5050.700684, 5346.977051 from land_wrecked_ural_onside
+23:13:18.155 !!! [CE][Point] Removing 5025.236816, 5418.280273 from land_wrecked_ural_onside
+23:13:18.200 !!! [CE][Point] Removing 6504.311523, 9286.791016 from land_wrecked_ural
+23:13:18.262 !!! [CE][Point] Removing 8979.381836, 2.071233 from Land_Boat_Small1
+23:13:18.267 !!! [CE][Point] Removing 8978.982422, -1.713907 from Land_Boat_Small1
+23:13:18.282 !!! [CE][Point] Removing 8980.249023, -0.407357 from Land_Boat_Small1
+23:13:18.327 !!! [CE][Point] Removing 6504.356445, 9291.453125 from land_wrecked_ural
+23:13:18.395 !!! [CE][Point] Removing 5049.828613, 5349.252930 from land_wrecked_ural_onside
+23:13:18.499 !!! [CE][Point] Removing 4931.937988, 6660.574707 from land_wrecked_ural
+23:13:18.536 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:3512, Nominal:3566, Total in Map: 4633 at 1 (sec)
+23:13:18.537   tests:3815, repeats:15 fails:288, overtime:120
+23:13:18.540 [CE][Links] found 0 total links between groups, of 1
+23:13:18.540 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:13:18.543 [CE][Links] found 0 total links between groups, of 2
+23:13:18.543 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:13:18.546 [CE][Links] found 0 total links between groups, of 3
+23:13:18.546 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:13:18.547 [CE][Links] found 0 total links between groups, of 4
+23:13:18.547 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:13:18.550 [CE][Links] found 0 total links between groups, of 5
+23:13:18.550 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:13:18.552 [CE][Links] found 0 total links between groups, of 6
+23:13:18.552 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:13:18.555 [CE][SpawnRandomLoot] (StaticLifeboat) :: !!! No group configured for 'sea_oilrig_lifeboat', failed to spawn loot
+23:13:19.970 [CE][DynEvent] :: 21 types
+23:13:19.971 [00] Loot
+23:13:19.971   Primary Spawner: "Loot", active: yes, repeat: 2
+23:13:19.971 [01] StaticMedDrop
+23:13:19.971   Primary Spawner: "Static", active: yes, repeat: 1
+23:13:19.971 [02] StaticLifeboat
+23:13:19.971   Primary Spawner: "Static", active: yes, repeat: 1
+23:13:19.971 [03] ItemWoodenPlanks
+23:13:19.971   Primary Spawner: "Item", active: yes, repeat: 1
+23:13:19.971 [04] TrajectoryStones
+23:13:19.971   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:13:19.971 [05] InfectedSanta
+23:13:19.971   Primary Spawner: "Infected", active: yes, repeat: 1
+23:13:19.971 [06] InfectedArmy
+23:13:19.971   Primary Spawner: "Infected", active: yes, repeat: 1
+23:13:19.971 [07] InfectedIndustrial
+23:13:19.971   Primary Spawner: "Infected", active: yes, repeat: 1
+23:13:19.971 [08] InfectedCivil
+23:13:19.971   Primary Spawner: "Infected", active: yes, repeat: 1
+23:13:19.971 [09] InfectedMedic
+23:13:19.971   Primary Spawner: "Infected", active: yes, repeat: 1
+23:13:19.972 [10] AnimalGoat
+23:13:19.972   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.972 [11] AnimalSheep
+23:13:19.972   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.972 [12] AnimalRoeDeer
+23:13:19.973   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.973 [13] AnimalDeer
+23:13:19.973   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.973 [14] AnimalWildBoar
+23:13:19.973   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.973 [15] AnimalWolf
+23:13:19.973   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.973 [16] AnimalBrownBear
+23:13:19.974   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.974 [17] AnimalPolarBear
+23:13:19.974   Primary Spawner: "Animal", active: yes, repeat: 1
+23:13:19.974 [18] VehicleCivilianCars
+23:13:19.974   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:13:19.974 [19] VehicleTrucks
+23:13:19.974   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:13:19.974 [20] VehicleMilitary
+23:13:19.974   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:13:19.975 [CE][Hive] :: Initializing of spawners done.
+23:13:19.978 [CE][Hive] :: Init sequence finished.
+23:13:19.979 Player connect enabled
+23:13:20.300 [IdleMode] Entering IN - save processed
+23:14:33.759 [Login]: Adding player Coffee (34780837) to login queue at position 0
+23:14:33.759 [LoginMachine]: Add player Coffee (34780837 192.168.1.3:2317)
+23:14:33.759 [StateMachine]: Player Coffee (dpnid 34780837 uid ) Entering AuthPlayerLoginState
+23:14:35.107 [StateMachine]: Player Coffee (dpnid 34780837 uid ) Entering WaitAuthPlayerLoginState
+23:14:35.335 [IdleMode] Leaving OUT
+23:14:38.455 Player Coffee connected (id=KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=).
+23:14:38.455 Player "Coffee" is connected (steamID=76561198430409881)
+23:14:38.455 [StateMachine]: Player Coffee (dpnid 34780837 uid ) Entering WaitPlayerAssignedLoginState
+23:14:39.82 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering DBGetLoginTimeLoginState
+23:14:39.90 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering DBWaitLoginTimeLoginState
+23:14:54.90 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering DBGetCharacterLoginState
+23:14:54.91 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering CreateNetObjectsLoginState
+23:14:54.92 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering PreloadCamLoginState
+23:14:54.93 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering WaitPreloadCamLoginState
+23:15:01.221 [StateMachine]: Player Coffee (dpnid 34780837 uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=) Entering GetNewCharLoginState
+23:15:04.709 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 34780837
+    uid KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=
+23:33:15.132 [Disconnect]: Client 34780837 early disconnect
+23:33:15.632 [Disconnect]: Start script disconnect 34780837 (dbCharacterId 1 dbPlayerId 1) logoutTime 0
+23:33:16.142 [Disconnect]: Remove player info 34780837
+23:33:16.152 [Disconnect]: Finish script disconnect 34780837 (KJsEqPk5EMn9la7dpUj5AmHXeYod84U874D5hNgcxKs=)
+23:33:16.153 [Disconnect]: DisconnectPlayerFinish 34780837
+23:33:16.670 [Disconnect]: Player destroy 34780837 
+23:33:20.251  --- Termination successfully completed --- 

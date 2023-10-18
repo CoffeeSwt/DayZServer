@@ -1,0 +1,2 @@
+large siberian  Animal_DBO_Tiger_s
+smalller Indian  Animal_DBO_Tiger

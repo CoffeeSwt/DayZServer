@@ -1,0 +1,337 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-10-8_12-36-14
+====================================================================================
+12:36:14 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:36:14 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:36:14 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:36:14 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:36:14 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:36:14 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:36:14 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:36:14 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:36:14 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:36:14 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:36:14 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:36:14 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:36:14 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:36:14 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:36:14 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:36:14 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:36:14 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:36:14 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:36:14 | [PermissionManager] Adding Super Admin (76561198430409881)
+12:36:14 | [PermissionManager] Loaded UserGroups.json
+12:36:14 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:36:14 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:36:14 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:36:14 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:36:14 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:36:14 | Building Sets Loaded: 0
+12:36:14 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+12:36:14 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:39:9 | Player "Coffee" (steamId=76561198430409881) connected to server!
+12:40:32 | "Coffee" (steamid=76561198430409881) Spawned Item: (BBP_Concrete_Brick_Pile)
+12:41:20 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<4485.910156, 4.791992, 11181.900391>)
+12:41:20 | "Coffee": (steamid=76561198430409881) teleported to (pos=4485.91,0,11181.9)
+12:41:39 | Player "Coffee" (steamId=76561198430409881) initiated disconnect process...
+12:41:40 | Player "Coffee" (steamId=76561198430409881) disconnected early from server (EXIT NOW).
+12:42:18 | Player "Coffee" (steamId=76561198430409881) connected to server!
+12:42:40 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+12:42:49 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+12:49:54 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7697.620117, 72.138687, 8793.719727>)
+12:49:54 | "Coffee": (steamid=76561198430409881) teleported to (pos=7697.62,0,8793.72)
+12:50:11 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7694.220215, 72.394585, 8798.429688>)
+12:50:11 | "Coffee": (steamid=76561198430409881) teleported to (pos=7694.22,0,8798.43)
+12:50:59 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6599.700195, 15.030000, 11337.000000>)
+12:50:59 | "Coffee": (steamid=76561198430409881) teleported to (pos=6599.7,0,11337)
+12:51:1 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6599.390137, 15.030000, 11336.599609>)
+12:51:1 | "Coffee": (steamid=76561198430409881) teleported to (pos=6599.39,0,11336.6)
+12:51:1 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6599.390137, 15.030000, 11336.599609>)
+12:51:1 | "Coffee": (steamid=76561198430409881) teleported to (pos=6599.39,0,11336.6)
+12:54:12 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12056.700195, 2.139954, 11770.500000>)
+12:54:12 | "Coffee": (steamid=76561198430409881) teleported to (pos=12056.7,0,11770.5)
+12:55:14 | [WeatherManager] Send Data Count is 0
+12:57:47 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:57:57 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:3 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:4 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:9 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:15 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:16 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:26 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:26 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:26 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:26 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+12:58:35 | Player "Coffee" (steamId=76561198430409881) initiated disconnect process...
+12:58:37 | Player "Coffee" (steamId=76561198430409881) disconnected early from server (EXIT NOW).
+13:0:48 | Player "Coffee" (steamId=76561198430409881) connected to server!
+13:1:13 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+13:1:14 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+13:1:14 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+13:1:16 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:20 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:22 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:37 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:38 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:42 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:1:58 | "Coffee" (steamid=76561198430409881) gave godmode to (steamid=76561198430409881)
+13:2:18 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:19 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:19 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:30 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:34 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:46 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:2:46 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:3:2 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:3:2 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:3:3 | "Coffee" (steamid=76561198430409881) Spawned Item: (Battery9V)
+13:4:21 | [WeatherManager] Send Data Count is 0
+13:7:40 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<3920.570068, 2.000000, 10274.500000>)
+13:7:40 | "Coffee": (steamid=76561198430409881) teleported to (pos=3920.57,0,10274.5)
+13:9:26 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<2903.959961, 2.000000, 10752.000000>)
+13:9:26 | "Coffee": (steamid=76561198430409881) teleported to (pos=2903.96,0,10752)
+13:9:45 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<2905.830078, 1.738582, 10491.900391>)
+13:9:45 | "Coffee": (steamid=76561198430409881) teleported to (pos=2905.83,0,10491.9)
+13:9:51 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<2926.409912, 2.000000, 10248.799805>)
+13:9:51 | "Coffee": (steamid=76561198430409881) teleported to (pos=2926.41,0,10248.8)
+13:10:3 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<1226.479980, 2.058928, 11828.500000>)
+13:10:3 | "Coffee": (steamid=76561198430409881) teleported to (pos=1226.48,0,11828.5)
+13:13:42 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<5345.680176, 2.033581, 12287.700195>)
+13:13:42 | "Coffee": (steamid=76561198430409881) teleported to (pos=5345.68,0,12287.7)
+13:14:10 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<5354.779785, 2.000000, 12282.900391>)
+13:14:10 | "Coffee": (steamid=76561198430409881) teleported to (pos=5354.78,0,12282.9)
+13:14:25 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11905.799805, 2.572021, 12039.299805>)
+13:14:25 | "Coffee": (steamid=76561198430409881) teleported to (pos=11905.8,0,12039.3)
+13:15:10 | [WeatherManager] Send Data Count is 0
+13:15:33 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12056.599609, 2.000000, 11043.700195>)
+13:15:33 | "Coffee": (steamid=76561198430409881) teleported to (pos=12056.6,0,11043.7)
+13:15:34 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12055.299805, 2.000000, 11065.099609>)
+13:15:34 | "Coffee": (steamid=76561198430409881) teleported to (pos=12055.3,0,11065.1)
+13:15:52 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12031.500000, 2.000000, 11025.799805>)
+13:15:52 | "Coffee": (steamid=76561198430409881) teleported to (pos=12031.5,0,11025.8)
+13:15:53 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12034.599609, 2.000000, 10994.299805>)
+13:15:53 | "Coffee": (steamid=76561198430409881) teleported to (pos=12034.6,0,10994.3)
+13:15:54 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12034.000000, 2.000000, 10970.900391>)
+13:15:54 | "Coffee": (steamid=76561198430409881) teleported to (pos=12034,0,10970.9)
+13:15:55 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12035.500000, 2.000000, 10959.099609>)
+13:15:55 | "Coffee": (steamid=76561198430409881) teleported to (pos=12035.5,0,10959.1)
+13:15:55 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12036.599609, 2.054783, 10943.500000>)
+13:15:55 | "Coffee": (steamid=76561198430409881) teleported to (pos=12036.6,0,10943.5)
+13:15:59 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<12040.799805, 2.801387, 10879.200195>)
+13:15:59 | "Coffee": (steamid=76561198430409881) teleported to (pos=12040.8,0,10879.2)
+13:16:16 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11951.500000, 2.147747, 10834.799805>)
+13:16:16 | "Coffee": (steamid=76561198430409881) teleported to (pos=11951.5,0,10834.8)
+13:16:16 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11919.000000, 2.000000, 10828.099609>)
+13:16:16 | "Coffee": (steamid=76561198430409881) teleported to (pos=11919,0,10828.1)
+13:16:17 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11881.700195, 2.000000, 10827.099609>)
+13:16:17 | "Coffee": (steamid=76561198430409881) teleported to (pos=11881.7,0,10827.1)
+13:16:17 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11881.700195, 2.000000, 10827.099609>)
+13:16:17 | "Coffee": (steamid=76561198430409881) teleported to (pos=11881.7,0,10827.1)
+13:16:18 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11854.900391, 2.000000, 10826.200195>)
+13:16:18 | "Coffee": (steamid=76561198430409881) teleported to (pos=11854.9,0,10826.2)
+13:16:18 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11820.500000, 1.799412, 10824.299805>)
+13:16:18 | "Coffee": (steamid=76561198430409881) teleported to (pos=11820.5,0,10824.3)
+13:16:19 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11763.099609, 2.000000, 10812.799805>)
+13:16:19 | "Coffee": (steamid=76561198430409881) teleported to (pos=11763.1,0,10812.8)
+13:16:20 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11742.099609, 2.000000, 10812.799805>)
+13:16:20 | "Coffee": (steamid=76561198430409881) teleported to (pos=11742.1,0,10812.8)
+13:16:21 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11687.000000, 2.973594, 10809.900391>)
+13:16:21 | "Coffee": (steamid=76561198430409881) teleported to (pos=11687,0,10809.9)
+13:16:21 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11687.000000, 2.973594, 10809.900391>)
+13:16:21 | "Coffee": (steamid=76561198430409881) teleported to (pos=11687,0,10809.9)
+13:16:22 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11625.799805, 2.000000, 10804.200195>)
+13:16:22 | "Coffee": (steamid=76561198430409881) teleported to (pos=11625.8,0,10804.2)
+13:16:30 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11590.200195, 3.008856, 10801.000000>)
+13:16:30 | "Coffee": (steamid=76561198430409881) teleported to (pos=11590.2,0,10801)
+13:17:59 | "Coffee" (steamid=76561198430409881) gave unlimited ammo to (steamid=76561198430409881)
+13:18:47 | "Coffee" (steamid=76561198430409881) gave unlimited ammo to (steamid=76561198430409881)
+13:19:22 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:22 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:22 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:22 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:22 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:23 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:24 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:25 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:25 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:58 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:19:59 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:20:0 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:20:0 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:20:0 | "Coffee" (steamid=76561198430409881) Spawned Item: (Ammo_556x45)
+13:21:3 | "Coffee" (steamid=76561198430409881) gave unlimited ammo to (steamid=76561198430409881)
+13:26:2 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11572.299805, 2.000000, 10763.799805>)
+13:26:2 | "Coffee": (steamid=76561198430409881) teleported to (pos=11572.3,0,10763.8)
+13:26:4 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11584.700195, 2.383789, 10764.099609>)
+13:26:4 | "Coffee": (steamid=76561198430409881) teleported to (pos=11584.7,0,10764.1)
+13:26:4 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11597.500000, 1.706012, 10764.099609>)
+13:26:4 | "Coffee": (steamid=76561198430409881) teleported to (pos=11597.5,0,10764.1)
+13:26:6 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11692.700195, 2.000000, 10761.599609>)
+13:26:6 | "Coffee": (steamid=76561198430409881) teleported to (pos=11692.7,0,10761.6)
+13:26:8 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11708.700195, 2.000000, 10774.700195>)
+13:26:8 | "Coffee": (steamid=76561198430409881) teleported to (pos=11708.7,0,10774.7)
+13:26:11 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11720.099609, 2.000000, 10763.799805>)
+13:26:11 | "Coffee": (steamid=76561198430409881) teleported to (pos=11720.1,0,10763.8)
+13:26:23 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11744.900391, 2.000000, 10757.900391>)
+13:26:23 | "Coffee": (steamid=76561198430409881) teleported to (pos=11744.9,0,10757.9)
+13:26:25 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11754.900391, 2.000000, 10781.200195>)
+13:26:25 | "Coffee": (steamid=76561198430409881) teleported to (pos=11754.9,0,10781.2)
+13:26:27 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11754.900391, 2.297942, 10750.000000>)
+13:26:27 | "Coffee": (steamid=76561198430409881) teleported to (pos=11754.9,0,10750)
+13:26:28 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11763.400391, 3.097236, 10732.500000>)
+13:26:28 | "Coffee": (steamid=76561198430409881) teleported to (pos=11763.4,0,10732.5)
+13:26:29 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11759.400391, 2.000000, 10706.200195>)
+13:26:29 | "Coffee": (steamid=76561198430409881) teleported to (pos=11759.4,0,10706.2)
+13:26:31 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11777.400391, 3.757993, 10686.599609>)
+13:26:31 | "Coffee": (steamid=76561198430409881) teleported to (pos=11777.4,0,10686.6)
+13:26:54 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11783.400391, 2.000000, 10537.200195>)
+13:26:54 | "Coffee": (steamid=76561198430409881) teleported to (pos=11783.4,0,10537.2)
+13:26:55 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11781.299805, 1.750872, 10498.099609>)
+13:26:55 | "Coffee": (steamid=76561198430409881) teleported to (pos=11781.3,0,10498.1)
+13:26:59 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11789.400391, 2.000000, 10420.000000>)
+13:26:59 | "Coffee": (steamid=76561198430409881) teleported to (pos=11789.4,0,10420)
+13:27:6 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11793.099609, 2.000000, 10316.599609>)
+13:27:6 | "Coffee": (steamid=76561198430409881) teleported to (pos=11793.1,0,10316.6)
+13:27:7 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11768.000000, 2.000000, 10228.799805>)
+13:27:7 | "Coffee": (steamid=76561198430409881) teleported to (pos=11768,0,10228.8)
+13:27:8 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11742.900391, 2.000000, 10176.200195>)
+13:27:8 | "Coffee": (steamid=76561198430409881) teleported to (pos=11742.9,0,10176.2)
+13:27:8 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11747.900391, 1.395313, 10116.000000>)
+13:27:8 | "Coffee": (steamid=76561198430409881) teleported to (pos=11747.9,0,10116)
+13:27:9 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11730.400391, 2.000000, 10038.299805>)
+13:27:9 | "Coffee": (steamid=76561198430409881) teleported to (pos=11730.4,0,10038.3)
+13:27:10 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11727.900391, 2.000000, 10015.700195>)
+13:27:10 | "Coffee": (steamid=76561198430409881) teleported to (pos=11727.9,0,10015.7)
+13:27:10 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11705.299805, 2.000000, 9953.219727>)
+13:27:10 | "Coffee": (steamid=76561198430409881) teleported to (pos=11705.3,0,9953.22)
+13:27:22 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11680.200195, 2.000000, 9765.160156>)
+13:27:22 | "Coffee": (steamid=76561198430409881) teleported to (pos=11680.2,0,9765.16)
+13:27:23 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11670.200195, 2.000000, 9715.009766>)
+13:27:23 | "Coffee": (steamid=76561198430409881) teleported to (pos=11670.2,0,9715.01)
+13:27:36 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11656.799805, 2.000000, 9465.070313>)
+13:27:36 | "Coffee": (steamid=76561198430409881) teleported to (pos=11656.8,0,9465.07)
+13:27:40 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<11801.599609, 2.000000, 7811.419922>)
+13:27:40 | "Coffee": (steamid=76561198430409881) teleported to (pos=11801.6,0,7811.42)
+13:33:38 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<2159.879883, 5.835686, 5811.250000>)
+13:33:38 | "Coffee": (steamid=76561198430409881) teleported to (pos=2159.88,0,5811.25)
+13:35:2 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<2033.520020, 2.000000, 5844.109863>)
+13:35:2 | "Coffee": (steamid=76561198430409881) teleported to (pos=2033.52,0,5844.11)
+13:35:12 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+13:35:14 | "Coffee" (steamid=76561198430409881) healed player (steamid=76561198430409881)
+13:35:42 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7177.379883, 20.852625, 5629.540039>)
+13:35:42 | "Coffee": (steamid=76561198430409881) teleported to (pos=7177.38,0,5629.54)
+13:35:43 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7209.350098, 22.986351, 5648.350098>)
+13:35:43 | "Coffee": (steamid=76561198430409881) teleported to (pos=7209.35,0,5648.35)
+13:36:11 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7666.439941, 11.550797, 5772.500000>)
+13:36:11 | "Coffee": (steamid=76561198430409881) teleported to (pos=7666.44,0,5772.5)
+13:37:38 | "Coffee" (steamid=76561198430409881) Spawned Item: (Hook)
+13:37:38 | "Coffee" (steamid=76561198430409881) Spawned Item: (Hook)
+13:39:33 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:39:33 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:39:33 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:39:34 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:39:34 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:39:34 | "Coffee" (steamid=76561198430409881) Spawned Item: (WeaponCleaningKit)
+13:47:46 | Player "Coffee" (steamId=76561198430409881) initiated disconnect process...
+13:47:47 | Player "Coffee" (steamId=76561198430409881) aborted logout process [canceledLogout]
+13:47:47 | Player "Coffee" (steamId=76561198430409881) aborted logout process [canceledLogout]
+13:49:12 | "Coffee" (steamid=76561198430409881) Spawned Item: (Msp_StoneFireplace_Kit)
+13:49:41 | "Coffee" (steamid=76561198430409881) Spawned Item: (Firewood)
+13:49:42 | "Coffee" (steamid=76561198430409881) Spawned Item: (Firewood)
+13:50:36 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6110.049805, 10.943559, 6113.609863>)
+13:50:36 | "Coffee": (steamid=76561198430409881) teleported to (pos=6110.05,0,6113.61)
+13:51:25 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<452.970001, 1.092181, 5850.890137>)
+13:51:25 | "Coffee": (steamid=76561198430409881) teleported to (pos=452.97,0,5850.89)
+13:51:39 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<1856.069946, 2.000000, 5752.450195>)
+13:51:39 | "Coffee": (steamid=76561198430409881) teleported to (pos=1856.07,0,5752.45)
+13:53:17 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<4882.509766, 59.293739, 6607.279785>)
+13:53:17 | "Coffee": (steamid=76561198430409881) teleported to (pos=4882.51,0,6607.28)
+14:9:4 | [WeatherManager] Send Data Count is 0
+14:9:27 | [Time Manager] Setting Date to 2011/11/2 1:17
+14:9:37 | [Time Manager] Setting Date to 2011/11/2 12:17
+14:9:44 | [Time Manager] Setting Date to 2011/11/2 8:17
+14:11:28 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6610.529785, 15.006847, 11446.200195>)
+14:11:28 | "Coffee": (steamid=76561198430409881) teleported to (pos=6610.53,0,11446.2)
+14:11:30 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6610.450195, 15.006721, 11446.099609>)
+14:11:30 | "Coffee": (steamid=76561198430409881) teleported to (pos=6610.45,0,11446.1)
+14:11:31 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<6610.049805, 15.006080, 11445.900391>)
+14:11:31 | "Coffee": (steamid=76561198430409881) teleported to (pos=6610.05,0,11445.9)
+14:12:21 | "Coffee" (steamid=76561198430409881) Spawned Item: (OffroadHatchback)
+14:17:10 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7209.029785, 12.431106, 10878.400391>)
+14:17:10 | "Coffee": (steamid=76561198430409881) teleported to (pos=7209.03,0,10878.4)
+14:17:11 | "76561198430409881" (steamid=76561198430409881) teleported to (pos=<7208.859863, 12.431647, 10877.700195>)
+14:17:11 | "Coffee": (steamid=76561198430409881) teleported to (pos=7208.86,0,10877.7)
+14:17:36 | Player "Coffee" (steamId=76561198430409881) initiated disconnect process...
+14:17:38 | Player "Coffee" (steamId=76561198430409881) disconnected early from server (EXIT NOW).

@@ -1,0 +1,343 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ-Namalsk.cfg -port=2303 -netLog -profiles=D:\SteamLibrary\steamapps\common\DayZServer\set\server01 -mod=@CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings;@Dabs-Framework;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@DayZ-Expansion-Licensed;@dbo_dil;@dbo_raptors;@dbo_tigers_02;@PvZmoD_CustomisableZombies;
+=====================================================================
+Exe timestamp: 2023/09/30 07:51:18
+Current time:  2023/10/15 22:06:14
+Version 1.22.156718
+=====================================================================
+
+22:06:14.960 [Inputs] Loading inputs default "bin/constants.xml"
+22:06:14.964 [Inputs] Loading inputs default "bin/specific.xml"
+22:06:14.966 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+22:06:14.966 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+22:06:14.966 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+22:06:14.967 [Inputs] Loading inputs default "LIVEN/PvZmoD_CustomisableZombies/inputs.xml"
+22:06:14.967 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+22:06:14.967 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+22:06:14.967 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+22:06:14.968 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+22:06:14.969 !!! [Inputs] Cannot load inputs default "", file does not exist
+22:06:14.969 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+22:06:14.969 [Inputs] Loading inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+22:06:14.974 [Inputs] Exporting inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+22:06:30.698 !!! File "nst\namalsk\data\ce\env/dil_territories.xml" does not exist...
+22:06:30.698 !!! [ERROR][XML] :: load [nst\namalsk\data\ce\env/dil_territories.xml] failed
+22:06:30.698 !!! [ERROR][XML] :: Failed to open file
+22:06:33.202 [CE][Hive] :: Initializing OFFLINE
+22:06:33.202 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\
+22:06:33.203 [CE][Hive] :: Loading core data ... 
+22:06:33.204 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+22:06:40.589 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+22:06:40.591 [CE][TypeSetup] :: 588 classes setuped...
+22:06:40.595 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+22:06:40.596 [CE][TypeSetup] :: 75 classes setuped...
+22:06:43.697 [CE][RegisterBind] :: 0 classes binded...
+22:06:43.697 [CE][RegisterConfig] :: 12785 config classes registered, 0 sub-counters...
+22:06:43.698 [CE][Hive] :: Loading map data ... 
+22:06:43.788 [CE][LoadPrototype] :: loaded 459 prototypes
+22:06:43.789   841 containers, 13222 points
+22:06:43.790   30 dispatches, 111 proxies
+22:06:43.792 !!! [CE][LoadPrototype] 9 groups have no points...
+22:06:43.793 !!! [CE][LoadPrototype] 1 groups have wrong points...
+22:06:43.794 !!! [CE][LoadPrototype] 126 groups were defined more than once and skipped...
+22:06:43.794 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+22:06:43.804 [CE][LoadPrototype] :: loaded 0 prototypes
+22:06:43.805   38 containers, 66 points
+22:06:43.806   0 dispatches, 0 proxies
+22:06:43.806 [CE][LoadPrototype] :: last group name: StoneLoc38...
+22:06:43.865 [CE][LoadMap] "Group" :: loaded 1880 groups, groups failed: 0, largest group range: 36.4
+22:06:43.868 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+22:06:43.881 [CE][Links] found 720 total links between groups, of 1880
+22:06:43.881 [CE][LoadClusters] "Cluster" :: Loading files...
+22:06:43.893 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+22:06:43.896 [CE][Storage] ver:21 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin"
+22:06:43.898 [CE][Storage] ver:21 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.001"
+22:06:43.900 [CE][Storage] ver:21 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.002"
+22:06:43.900 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin".
+22:06:44.117 [CE][offlineDB] :: Loaded 22 dynamic events 174 total types.
+22:06:44.118 !!! [CE][DE] (VehicleTrucks) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+22:06:44.119 [CE][offlineDB] :: Loaded 24 dynamic events 227 total types.
+22:06:44.139 !!! [CE][offlineDB] :: Type 'Mag_DE_9rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'Telnyashka' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'ManSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+22:06:44.140 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+22:06:44.141 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+22:06:44.141 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+22:06:44.141 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+22:06:44.142 !!! [CE][offlineDB] :: Type 'SportGlasses' will be ignored. (Type does not exist. (Typo?))
+22:06:44.143 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+22:06:44.143 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Black' will be ignored. (Type does not exist. (Typo?))
+22:06:44.143 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Blue' will be ignored. (Type does not exist. (Typo?))
+22:06:44.143 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Grey' will be ignored. (Type does not exist. (Typo?))
+22:06:44.143 !!! [CE] :: Unknown usage: 'Lunapark'.
+22:06:44.143 !!! [CE] :: Unknown usage: 'Lunapark'.
+22:06:44.143 !!! [CE] :: Unknown usage: 'Lunapark'.
+22:06:44.144 !!! [CE] :: Unknown usage: 'Lunapark'.
+22:06:44.165 !!! [CE][offlineDB] :: Type 'ExpansionKar98ScopeOptic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.166 !!! [CE][offlineDB] :: Type 'ExpansionDeltapointOptic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.168 !!! [CE][offlineDB] :: Type 'ExpansionEXPS3HoloOptic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.170 !!! [CE][offlineDB] :: Type 'ExpansionHAMROptic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.172 !!! [CE][offlineDB] :: Type 'Expansion_PMII25Optic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.172 !!! [CE][offlineDB] :: Type 'ExpansionReflexMRSOptic' will be ignored. (Type does not exist. (Typo?))
+22:06:44.173 !!! [CE][offlineDB] :: Type 'Expansion_M1A_RailAtt' will be ignored. (Type does not exist. (Typo?))
+22:06:44.173 !!! [CE][offlineDB] :: Type 'Expansion_ANPEQ15_Red' will be ignored. (Type does not exist. (Typo?))
+22:06:44.173 !!! [CE][offlineDB] :: Type 'Expansion_Kar98_Bayonet' will be ignored. (Type does not exist. (Typo?))
+22:06:44.173 !!! [CE][offlineDB] :: Type 'Expansion_Crossbow' will be ignored. (Type does not exist. (Typo?))
+22:06:44.173 !!! [CE][offlineDB] :: Type 'ExpansionRPG7' will be ignored. (Type does not exist. (Typo?))
+22:06:44.174 !!! [CE][offlineDB] :: Type 'ExpansionLAW' will be ignored. (Type does not exist. (Typo?))
+22:06:44.174 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Type does not exist. (Typo?))
+22:06:44.174 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Type does not exist. (Typo?))
+22:06:44.175 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Yellow' will be ignored. (Type does not exist. (Typo?))
+22:06:44.176 !!! [CE][offlineDB] :: Type 'Expansion_Taser_Black' will be ignored. (Type does not exist. (Typo?))
+22:06:44.177 !!! [CE][offlineDB] :: Type 'Expansion_M9' will be ignored. (Type does not exist. (Typo?))
+22:06:44.177 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+22:06:44.177 !!! [CE][offlineDB] :: Type 'Expansion_G36' will be ignored. (Type does not exist. (Typo?))
+22:06:44.178 !!! [CE][offlineDB] :: Type 'Expansion_MPX' will be ignored. (Type does not exist. (Typo?))
+22:06:44.178 !!! [CE][offlineDB] :: Type 'Expansion_MP5' will be ignored. (Type does not exist. (Typo?))
+22:06:44.178 !!! [CE][offlineDB] :: Type 'Expansion_MP5SD' will be ignored. (Type does not exist. (Typo?))
+22:06:44.178 !!! [CE][offlineDB] :: Type 'Expansion_MP5_RailAtt' will be ignored. (Type does not exist. (Typo?))
+22:06:44.179 !!! [CE][offlineDB] :: Type 'Expansion_MP7' will be ignored. (Type does not exist. (Typo?))
+22:06:44.179 !!! [CE][offlineDB] :: Type 'Expansion_Kedr' will be ignored. (Type does not exist. (Typo?))
+22:06:44.180 !!! [CE][offlineDB] :: Type 'Expansion_VityazSN' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_M16' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_M1A' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_M14' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_DT11' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_BenelliM4' will be ignored. (Type does not exist. (Typo?))
+22:06:44.181 !!! [CE][offlineDB] :: Type 'Expansion_AWM' will be ignored. (Type does not exist. (Typo?))
+22:06:44.182 !!! [CE][offlineDB] :: Type 'Expansion_Kar98' will be ignored. (Type does not exist. (Typo?))
+22:06:44.183 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_46x30_25rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.184 !!! [CE][offlineDB] :: Type 'AmmoBox_Expansion_338_15rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.186 !!! [CE][offlineDB] :: Type 'Expansion_AmmoBox_8mm_15rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.188 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_8mm' will be ignored. (Type does not exist. (Typo?))
+22:06:44.190 !!! [CE][offlineDB] :: Type 'ExpansionAmmoRPG' will be ignored. (Type does not exist. (Typo?))
+22:06:44.190 !!! [CE][offlineDB] :: Type 'ExpansionAmmoLAW' will be ignored. (Type does not exist. (Typo?))
+22:06:44.190 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+22:06:44.190 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+22:06:44.191 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+22:06:44.191 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+22:06:44.191 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+22:06:44.191 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+22:06:44.191 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_White' will be ignored. (Type does not exist. (Typo?))
+22:06:44.192 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Red' will be ignored. (Type does not exist. (Typo?))
+22:06:44.192 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Green' will be ignored. (Type does not exist. (Typo?))
+22:06:44.192 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Yellow' will be ignored. (Type does not exist. (Typo?))
+22:06:44.193 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Purple' will be ignored. (Type does not exist. (Typo?))
+22:06:44.193 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_Sticky_Smoke_Teargas' will be ignored. (Type does not exist. (Typo?))
+22:06:44.193 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_M203_HE' will be ignored. (Type does not exist. (Typo?))
+22:06:44.195 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_46x30' will be ignored. (Type does not exist. (Typo?))
+22:06:44.196 !!! [CE][offlineDB] :: Type 'Ammo_Expansion_338' will be ignored. (Type does not exist. (Typo?))
+22:06:44.196 !!! [CE][offlineDB] :: Type 'Expansion_Ammo_ArrowBolt' will be ignored. (Type does not exist. (Typo?))
+22:06:44.197 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Taser' will be ignored. (Type does not exist. (Typo?))
+22:06:44.197 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Vityaz_30Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.197 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_20Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.197 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M14_10Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.198 !!! [CE][offlineDB] :: Type 'Mag_Expansion_M9_15Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.198 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MPX_50Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.198 !!! [CE][offlineDB] :: Type 'Mag_Expansion_G36_30Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.198 !!! [CE][offlineDB] :: Type 'Mag_Expansion_Kedr_20Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.200 !!! [CE][offlineDB] :: Type 'Mag_Expansion_MP7_40Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.201 !!! [CE][offlineDB] :: Type 'Mag_Expansion_AWM_5Rnd' will be ignored. (Type does not exist. (Typo?))
+22:06:44.203 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteUSD' will be ignored. (Type does not exist. (Typo?))
+22:06:44.204 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteEuro' will be ignored. (Type does not exist. (Typo?))
+22:06:44.205 !!! [CE][offlineDB] :: Type 'ExpansionBanknoteHryvnia' will be ignored. (Type does not exist. (Typo?))
+22:06:44.206 !!! [CE][offlineDB] :: Type 'ExpansionLumber1' will be ignored. (Type does not exist. (Typo?))
+22:06:44.207 !!! [CE][offlineDB] :: Type 'ExpansionLumber1_5' will be ignored. (Type does not exist. (Typo?))
+22:06:44.208 !!! [CE][offlineDB] :: Type 'ExpansionLumber3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.208 !!! [CE][offlineDB] :: Type 'ExpansionFloorKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.209 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillarKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.209 !!! [CE][offlineDB] :: Type 'ExpansionRampKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.209 !!! [CE][offlineDB] :: Type 'ExpansionStairKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.209 !!! [CE][offlineDB] :: Type 'ExpansionWallKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.209 !!! [CE][offlineDB] :: Type 'ExpansionCamoBoxKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.210 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGateKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.210 !!! [CE][offlineDB] :: Type 'ExpansionCamoTentKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.210 !!! [CE][offlineDB] :: Type 'ExpansionSafeLarge' will be ignored. (Type does not exist. (Typo?))
+22:06:44.210 !!! [CE][offlineDB] :: Type 'ExpansionSafeMini' will be ignored. (Type does not exist. (Typo?))
+22:06:44.210 !!! [CE][offlineDB] :: Type 'ExpansionSafeMedium' will be ignored. (Type does not exist. (Typo?))
+22:06:44.211 !!! [CE][offlineDB] :: Type 'ExpansionHelipadKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.211 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWireKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionHescoKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionCodeLock' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionBarbedWire' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionHesco' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionBarrierGate' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionCamoBox' will be ignored. (Type does not exist. (Typo?))
+22:06:44.212 !!! [CE][offlineDB] :: Type 'ExpansionCamoTent' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionHelipad' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionWoodPillar' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionWall6x3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionFloor6x6' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionFloor3x3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.213 !!! [CE][offlineDB] :: Type 'ExpansionRamp6x1_5x6' will be ignored. (Type does not exist. (Typo?))
+22:06:44.214 !!! [CE][offlineDB] :: Type 'ExpansionStairS1_5x3x3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.214 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeter' will be ignored. (Type does not exist. (Typo?))
+22:06:44.215 !!! [CE][offlineDB] :: Type 'ExpansionParkingMeterKit' will be ignored. (Type does not exist. (Typo?))
+22:06:44.218 !!! [CE][offlineDB] :: Type 'ExpansionGPS' will be ignored. (Type does not exist. (Typo?))
+22:06:44.219 !!! [CE][offlineDB] :: Type 'ExpansionBoltCutters' will be ignored. (Type does not exist. (Typo?))
+22:06:44.219 !!! [CE][offlineDB] :: Type 'ExpansionPropaneTorch' will be ignored. (Type does not exist. (Typo?))
+22:06:44.220 !!! [CE][offlineDB] :: Type 'ExpansionToolBox' will be ignored. (Type does not exist. (Typo?))
+22:06:44.221 !!! [CE][offlineDB] :: Type 'ExpansionMilkBottle' will be ignored. (Type does not exist. (Typo?))
+22:06:44.221 !!! [CE][offlineDB] :: Type 'ExpansionBread1' will be ignored. (Type does not exist. (Typo?))
+22:06:44.221 !!! [CE][offlineDB] :: Type 'ExpansionBread2' will be ignored. (Type does not exist. (Typo?))
+22:06:44.221 !!! [CE][offlineDB] :: Type 'ExpansionBread3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.222 !!! [CE][offlineDB] :: Type 'ExpansionCheese1' will be ignored. (Type does not exist. (Typo?))
+22:06:44.222 !!! [CE][offlineDB] :: Type 'ExpansionCheese2' will be ignored. (Type does not exist. (Typo?))
+22:06:44.222 !!! [CE][offlineDB] :: Type 'ExpansionCheese3' will be ignored. (Type does not exist. (Typo?))
+22:06:44.222 !!! [CE][offlineDB] :: Type 'ExpansionCheese4' will be ignored. (Type does not exist. (Typo?))
+22:06:44.222 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross_LowLifetime' will be ignored. (Type does not exist. (Typo?))
+22:06:44.223 !!! [CE][offlineDB] :: Type 'Expansion_Gravecross' will be ignored. (Type does not exist. (Typo?))
+22:06:44.231 [CE][DE][SPAWNS] :: Total positions: 718
+22:06:44.232 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+22:06:44.233 [CE][Storage] ver:21 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin"
+22:06:44.235 [CE][Storage] ver:21 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.001"
+22:06:44.235 [CE][Storage] ver:21 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.002"
+22:06:44.236 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin".
+22:06:44.236 [CE][DynamicEvent] Load  Events:[24] Primary spawners: 24 Secondary spawners: 0
+22:06:44.237 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+22:06:44.239 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+22:06:44.240 [CE][Storage] ver:25 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+22:06:44.240 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 9 items.
+22:06:44.248   9 items loaded. (0 failed)
+22:06:44.249 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+22:06:44.250 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+22:06:44.251 [CE][Storage] ver:25 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+22:06:44.252 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 54 items.
+22:06:44.327   54 items loaded. (0 failed)
+22:06:44.328 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+22:06:44.329 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+22:06:44.330 !!! [CE][Storage] Failed to read [Storage] data file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002".
+22:06:44.330   File not closed...
+22:06:44.330 [CE][Storage] ver:25 stamp:262, valid:NO, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+22:06:44.331 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 175 items.
+22:06:44.577   175 items loaded. (0 failed)
+22:06:44.578 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+22:06:44.580 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+22:06:44.582 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+22:06:44.582 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 1093 items.
+22:06:45.645   1093 items loaded. (0 failed)
+22:06:45.646 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+22:06:45.647 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+22:06:45.648 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+22:06:45.651 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 2699 items.
+22:06:47.571   2699 items loaded. (0 failed)
+22:06:47.573 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+22:06:47.575 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+22:06:47.575 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+22:06:47.577 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 1105 items.
+22:06:48.363   1105 items loaded. (0 failed)
+22:06:48.364 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+22:06:48.365 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+22:06:48.366 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+22:06:48.366 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 2580 items.
+22:06:50.87   2580 items loaded. (0 failed)
+22:06:50.88 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+22:06:50.89 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+22:06:50.90 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+22:06:50.90 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 887 items.
+22:06:50.740   887 items loaded. (0 failed)
+22:06:50.742 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+22:06:50.743 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+22:06:50.744 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+22:06:50.745 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 328 items.
+22:06:51.46   328 items loaded. (0 failed)
+22:06:51.46 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+22:06:51.47 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+22:06:51.48 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+22:06:51.49 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+22:06:51.49   0 items loaded. (0 failed)
+22:06:51.51 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+22:06:51.52 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+22:06:51.53 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+22:06:51.54 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 327 items.
+22:06:51.292   327 items loaded. (0 failed)
+22:06:51.295 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+22:06:51.296 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+22:06:51.297 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+22:06:51.297 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 23 items.
+22:06:51.311   23 items loaded. (0 failed)
+22:06:51.314 [CE][Storage] ver:26 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin"
+22:06:51.315 [CE][Storage] ver:26 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.001"
+22:06:51.317 [CE][Storage] ver:26 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.002"
+22:06:51.317 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+22:06:51.317   0 items loaded. (0 failed)
+22:06:51.318 [CE][Storage] ver:25 stamp:262, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+22:06:51.319 [CE][Storage] ver:25 stamp:261, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+22:06:51.320 [CE][Storage] ver:25 stamp:259, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+22:06:51.321 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 33 items.
+22:06:51.628   33 items loaded. (0 failed)
+22:06:51.656 [CE][Hive] :: Storage load took:7.42 seconds, recovery stamp:262
+22:06:51.656   entity: 10161, building: 0
+22:06:51.657   no lifetime: 22
+22:06:51.658   pathgraph's: 409
+22:06:51.659 [CE][Hive] :: Initializing ... 
+22:06:51.690 [CE][InitializeMap] :: initialized: 0
+22:06:51.691 [CE][Hive] :: Initializing spawners ... 
+22:06:51.693 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:13502, Total in Map: 10435 at 0 (sec)
+22:06:51.693   tests:0, repeats:0 fails:0, overtime:0
+22:06:53.246 [CE][DynEvent] :: 24 types
+22:06:53.246 [00] AnimalDil
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [01] Loot
+22:06:53.246   Primary Spawner: "Loot", active: yes, repeat: 2
+22:06:53.246 [02] StaticMedDrop
+22:06:53.246   Primary Spawner: "Static", active: yes, repeat: 1
+22:06:53.246 [03] StaticLifeboat
+22:06:53.246   Primary Spawner: "Static", active: yes, repeat: 1
+22:06:53.246 [04] ItemWoodenPlanks
+22:06:53.246   Primary Spawner: "Item", active: yes, repeat: 1
+22:06:53.246 [05] TrajectoryStones
+22:06:53.246   Primary Spawner: "Trajectory", active: yes, repeat: 1
+22:06:53.246 [06] InfectedSanta
+22:06:53.246   Primary Spawner: "Infected", active: yes, repeat: 1
+22:06:53.246 [07] InfectedArmy
+22:06:53.246   Primary Spawner: "Infected", active: yes, repeat: 1
+22:06:53.246 [08] InfectedIndustrial
+22:06:53.246   Primary Spawner: "Infected", active: yes, repeat: 1
+22:06:53.246 [09] InfectedCivil
+22:06:53.246   Primary Spawner: "Infected", active: yes, repeat: 1
+22:06:53.246 [10] InfectedMedic
+22:06:53.246   Primary Spawner: "Infected", active: yes, repeat: 1
+22:06:53.246 [11] AnimalGoat
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [12] AnimalSheep
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [13] AnimalRoeDeer
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [14] AnimalDeer
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [15] AnimalWildBoar
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [16] AnimalWolf
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [17] AnimalBrownBear
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [18] AnimalPolarBear
+22:06:53.246   Primary Spawner: "Animal", active: yes, repeat: 1
+22:06:53.246 [19] VehicleCivilianCars
+22:06:53.246   Primary Spawner: "Vehicle", active: yes, repeat: 1
+22:06:53.247 [20] VehicleTrucks
+22:06:53.247   Primary Spawner: "Vehicle", active: yes, repeat: 1
+22:06:53.247 [21] VehicleMilitary
+22:06:53.247   Primary Spawner: "Vehicle", active: yes, repeat: 1
+22:06:53.247 [22] VehicleHelicopters
+22:06:53.247   Primary Spawner: "Vehicle", active: yes, repeat: 1
+22:06:53.248 [23] VehicleBoats
+22:06:53.248   Primary Spawner: "Vehicle", active: yes, repeat: 1
+22:06:53.248 [CE][Hive] :: Initializing of spawners done.
+22:06:53.254 [CE][Hive] :: Init sequence finished.
+22:06:53.254 Player connect enabled
+22:06:54.384 [IdleMode] Entering IN - save processed
+22:51:11.728  --- Termination successfully completed --- 

@@ -1,0 +1,14 @@
+# 系统游戏文件
+addons
+appcache
+battleye
+bliss
+config
+docs
+dta
+
+logs
+steam_api64.dll
+steamclient64.dll
+tier0_s64.dll
+vstdlib_s64.dll

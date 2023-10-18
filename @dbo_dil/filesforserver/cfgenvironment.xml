@@ -1,0 +1,5 @@
+
+		<file path="env/dil_territories.xml" />
+<territory type="Herd" name="Dil" behavior="DZWolfGroupBeh">
+			<file usable="dil_territories" />
+		</territory>

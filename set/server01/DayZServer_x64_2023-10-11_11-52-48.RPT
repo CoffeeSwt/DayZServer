@@ -1,0 +1,212 @@
+=====================================================================
+== D:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== "DayZServer_x64.exe" -config=serverDZ-Namalsk.cfg -port=2303 -profiles=D:\SteamLibrary\steamapps\common\DayZServer\set\server01 -mod=@CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings;
+=====================================================================
+Exe timestamp: 2023/09/30 07:51:18
+Current time:  2023/10/11 11:52:55
+Version 1.22.156718
+=====================================================================
+
+11:52:55.379 [Inputs] Loading inputs default "bin/constants.xml"
+11:52:55.385 [Inputs] Loading inputs default "bin/specific.xml"
+11:52:55.386 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+11:52:55.388 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+11:52:55.389 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+11:52:55.390 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+11:52:55.390 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+11:52:55.391 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+11:52:55.394 !!! [Inputs] Cannot load inputs default "", file does not exist
+11:52:55.394 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+11:52:55.394 [Inputs] Loading inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+11:52:55.410 [Inputs] Exporting inputs cfg "D:\SteamLibrary\steamapps\common\DayZServer\set\server01\Users\Survivor\Server.core.xml"
+11:53:08.416 [CE][Hive] :: Initializing OFFLINE
+11:53:08.416 [StorageDirs] :: Selected storage directory: D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\
+11:53:08.417 [CE][Hive] :: Loading core data ... 
+11:53:08.422 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+11:53:13.670 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+11:53:13.672 [CE][TypeSetup] :: 586 classes setuped...
+11:53:15.170 [CE][RegisterBind] :: 0 classes binded...
+11:53:15.170 [CE][RegisterConfig] :: 11927 config classes registered, 0 sub-counters...
+11:53:15.170 [CE][Hive] :: Loading map data ... 
+11:53:15.280 [CE][LoadPrototype] :: loaded 459 prototypes
+11:53:15.280   841 containers, 13222 points
+11:53:15.280   30 dispatches, 111 proxies
+11:53:15.280 !!! [CE][LoadPrototype] 9 groups have no points...
+11:53:15.280 !!! [CE][LoadPrototype] 1 groups have wrong points...
+11:53:15.280 !!! [CE][LoadPrototype] 126 groups were defined more than once and skipped...
+11:53:15.280 [CE][LoadPrototype] :: last group name: Land_Wreck_truck01_aban2_orange...
+11:53:15.292 [CE][LoadPrototype] :: loaded 0 prototypes
+11:53:15.293   38 containers, 66 points
+11:53:15.293   0 dispatches, 0 proxies
+11:53:15.295 [CE][LoadPrototype] :: last group name: StoneLoc38...
+11:53:15.354 [CE][LoadMap] "Group" :: loaded 1880 groups, groups failed: 0, largest group range: 36.4
+11:53:15.360 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+11:53:15.367 [CE][Links] found 720 total links between groups, of 1880
+11:53:15.367 [CE][LoadClusters] "Cluster" :: Loading files...
+11:53:15.385 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+11:53:15.392 [CE][Storage] ver:21 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin"
+11:53:15.400 [CE][Storage] ver:21 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.001"
+11:53:15.407 [CE][Storage] ver:21 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.002"
+11:53:15.407 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\types.bin".
+11:53:15.534 [CE][offlineDB] :: Loaded 21 dynamic events 173 total types.
+11:53:15.578 !!! [CE][offlineDB] :: Type 'Mag_DE_9rnd' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'Telnyashka' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'ManSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Beige' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Black' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Blue' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Brown' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_DarkGrey' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_Khaki' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_LightGrey' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'WomanSuitJacket_White' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'SportGlasses' will be ignored. (Type does not exist. (Typo?))
+11:53:15.579 !!! [CE][offlineDB] :: Type 'Spear' will be ignored. (Not spawnable. (Scope is not public?))
+11:53:15.580 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Black' will be ignored. (Type does not exist. (Typo?))
+11:53:15.580 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Blue' will be ignored. (Type does not exist. (Typo?))
+11:53:15.580 !!! [CE][offlineDB] :: Type 'ZmbM_SurvivorDean_Grey' will be ignored. (Type does not exist. (Typo?))
+11:53:15.580 !!! [CE] :: Unknown usage: 'Lunapark'.
+11:53:15.580 !!! [CE] :: Unknown usage: 'Lunapark'.
+11:53:15.580 !!! [CE] :: Unknown usage: 'Lunapark'.
+11:53:15.581 !!! [CE] :: Unknown usage: 'Lunapark'.
+11:53:15.607 [CE][DE][SPAWNS] :: Total positions: 677
+11:53:15.607 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+11:53:15.612 [CE][Storage] ver:21 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin"
+11:53:15.616 [CE][Storage] ver:21 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.001"
+11:53:15.620 [CE][Storage] ver:21 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.002"
+11:53:15.620 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\events.bin".
+11:53:15.620 [CE][DynamicEvent] Load  Events:[21] Primary spawners: 21 Secondary spawners: 0
+11:53:15.625 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+11:53:15.629 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+11:53:15.634 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+11:53:15.634 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 9 items.
+11:53:15.638   9 items loaded. (0 failed)
+11:53:15.642 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+11:53:15.646 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+11:53:15.651 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+11:53:15.651 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 49 items.
+11:53:15.694   49 items loaded. (0 failed)
+11:53:15.699 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+11:53:15.703 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+11:53:15.707 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+11:53:15.707 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 158 items.
+11:53:15.826   158 items loaded. (0 failed)
+11:53:15.834 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+11:53:15.840 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+11:53:15.845 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+11:53:15.845 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 996 items.
+11:53:16.378   996 items loaded. (0 failed)
+11:53:16.384 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+11:53:16.389 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+11:53:16.394 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+11:53:16.395 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 2265 items.
+11:53:17.213   2265 items loaded. (0 failed)
+11:53:17.219 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+11:53:17.226 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+11:53:17.231 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+11:53:17.231 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 976 items.
+11:53:17.546   976 items loaded. (0 failed)
+11:53:17.552 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+11:53:17.557 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+11:53:17.562 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+11:53:17.562 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 2066 items.
+11:53:18.211   2066 items loaded. (0 failed)
+11:53:18.216 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+11:53:18.222 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+11:53:18.228 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+11:53:18.228 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 823 items.
+11:53:18.542   823 items loaded. (0 failed)
+11:53:18.549 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+11:53:18.553 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+11:53:18.558 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+11:53:18.559 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 305 items.
+11:53:18.685   305 items loaded. (0 failed)
+11:53:18.689 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+11:53:18.693 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+11:53:18.697 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+11:53:18.697 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+11:53:18.697   0 items loaded. (0 failed)
+11:53:18.702 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+11:53:18.709 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+11:53:18.714 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+11:53:18.714 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 278 items.
+11:53:18.838   278 items loaded. (0 failed)
+11:53:18.844 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+11:53:18.850 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+11:53:18.857 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+11:53:18.858 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 23 items.
+11:53:18.872   23 items loaded. (0 failed)
+11:53:18.878 [CE][Storage] ver:26 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin"
+11:53:18.883 [CE][Storage] ver:26 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.001"
+11:53:18.887 [CE][Storage] ver:26 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.002"
+11:53:18.888 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+11:53:18.888   0 items loaded. (0 failed)
+11:53:18.894 [CE][Storage] ver:25 stamp:523, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+11:53:18.900 [CE][Storage] ver:25 stamp:505, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+11:53:18.904 [CE][Storage] ver:25 stamp:506, valid:yes, name:"D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+11:53:18.904 [CE][Storage] Restoring file "D:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 43 items.
+11:53:19.27   43 items loaded. (0 failed)
+11:53:19.53 [CE][Hive] :: Storage load took:3.44 seconds, recovery stamp:523
+11:53:19.53   entity: 8664, building: 0
+11:53:19.53   no lifetime: 17
+11:53:19.53   pathgraph's: 383
+11:53:19.56 [CE][Hive] :: Initializing ... 
+11:53:19.74 [CE][InitializeMap] :: initialized: 0
+11:53:19.74 [CE][Hive] :: Initializing spawners ... 
+11:53:19.75 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:12407, Total in Map: 9115 at 0 (sec)
+11:53:19.75   tests:0, repeats:0 fails:0, overtime:0
+11:53:20.309 [CE][DynEvent] :: 21 types
+11:53:20.309 [00] Loot
+11:53:20.309   Primary Spawner: "Loot", active: yes, repeat: 2
+11:53:20.309 [01] StaticMedDrop
+11:53:20.309   Primary Spawner: "Static", active: yes, repeat: 1
+11:53:20.309 [02] StaticLifeboat
+11:53:20.309   Primary Spawner: "Static", active: yes, repeat: 1
+11:53:20.309 [03] ItemWoodenPlanks
+11:53:20.309   Primary Spawner: "Item", active: yes, repeat: 1
+11:53:20.309 [04] TrajectoryStones
+11:53:20.309   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:53:20.309 [05] InfectedSanta
+11:53:20.309   Primary Spawner: "Infected", active: yes, repeat: 1
+11:53:20.309 [06] InfectedArmy
+11:53:20.309   Primary Spawner: "Infected", active: yes, repeat: 1
+11:53:20.309 [07] InfectedIndustrial
+11:53:20.309   Primary Spawner: "Infected", active: yes, repeat: 1
+11:53:20.309 [08] InfectedCivil
+11:53:20.309   Primary Spawner: "Infected", active: yes, repeat: 1
+11:53:20.309 [09] InfectedMedic
+11:53:20.309   Primary Spawner: "Infected", active: yes, repeat: 1
+11:53:20.309 [10] AnimalGoat
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [11] AnimalSheep
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [12] AnimalRoeDeer
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [13] AnimalDeer
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [14] AnimalWildBoar
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [15] AnimalWolf
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [16] AnimalBrownBear
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [17] AnimalPolarBear
+11:53:20.309   Primary Spawner: "Animal", active: yes, repeat: 1
+11:53:20.309 [18] VehicleCivilianCars
+11:53:20.309   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:53:20.309 [19] VehicleTrucks
+11:53:20.309   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:53:20.309 [20] VehicleMilitary
+11:53:20.309   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:53:20.309 [CE][Hive] :: Initializing of spawners done.
+11:53:20.313 [CE][Hive] :: Init sequence finished.
+11:53:20.313 Player connect enabled
+11:53:20.690 [IdleMode] Entering IN - save processed
+11:54:21.397  --- Termination successfully completed --- 

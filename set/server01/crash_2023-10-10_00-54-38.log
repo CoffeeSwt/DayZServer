@@ -1,0 +1,1229 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\set\server01\crash_2023-10-10_00-54-38.log started at 10.10. 00:54:50
+
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:47
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:55
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:89
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:95
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:104
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:117
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:121
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:130
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:138
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:144
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:155
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:165
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:174
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:178
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:214
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:218
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:222
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:50
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:227
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:242
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:244
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:258
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:275
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:289
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:291
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:314
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:326
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:339
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:363
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:376
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:379
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:405
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:418
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:424
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:471
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:477
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:481
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:510
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:540
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:560
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:566
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:582
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:587
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:596
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:604
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:648
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:658
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:660
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:668
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:672
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:686
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:691
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:696
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:699
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:715
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:728
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:745
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:781
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:787
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:794
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:811
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:819
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:830
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:833
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:846
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1031
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1038
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1049
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1052
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1058
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1178
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1184
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1196
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1203
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1224
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1227
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1251
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1254
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1267
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1295
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1466
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1500
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1701
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1705
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1764
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1767
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1777
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 00:54:51
+NULL pointer to instance
+Class:      'CustomMission'
+Function: 'SpawnObject'
+Stack trace:
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:8
+Namalsk_Overhaul/scripts/5_mission/namalsk_overhaul.c:1800
+$CurrentDir:mpmissions\regular.namalsk\init.c:36
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
+
+
+------------------------------------
+DESKTOP-NFFVVP3, 10.10 2023 01:57:48
+[Object::GetMaxHealth] :: [Misc_cargo_cont_net1:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: config serverDZ-Namalsk.cfg port 2303 profiles D:\SteamLibrary\steamapps\common\DayZServer\set\server01 mod @CF;@Namalsk-Island;@Namalsk-Survival;@Inventory_Zipper;@Zen'sImmersiveLogin;@Soundinunconscious(RELIFE);@InventoryMoveSounds;@ItemSizeTweak;@SnowOverhaul;@Namalsk_Overhaul;@sFramework;@sGunplay;@Zen'sCraftingSounds;@SkyZ-SkyboxOverhaul;@BaseBuildingPlus;@MuchStuffPack;@VPPAdminTools;@Ear-Plugs;@BuildingFortifications;@BoomLay'sThings; 
